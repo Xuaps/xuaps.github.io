@@ -6,9 +6,16 @@
         <description>Technical discussions by coders</description>
         <generator>Feeder 3 3.7.5(3340); Mac OS X Version 10.13.6 (Build 17G14042) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <language>en</language>
-        <pubDate>Fri, 19 Feb 2021 20:23:24 +0100</pubDate>
-        <lastBuildDate>Fri, 19 Feb 2021 20:23:25 +0100</lastBuildDate>
+        <language>es-es</language>
+        <pubDate>Sat, 20 Feb 2021 21:37:01 +0100</pubDate>
+        <lastBuildDate>Sat, 20 Feb 2021 21:37:01 +0100</lastBuildDate>
+        <image>
+            <url>http://xuaps.github.io/logo.jpg</url>
+            <title>Considered harmful</title>
+            <link>https://xuaps.github.io</link>
+            <width>144</width>
+            <height>144</height>
+        </image>
         <atom:link href="http://xuaps.github.io/Consideredharmful.xml" rel="self" type="application/rss+xml"/>
         <itunes:image href="http://xuaps.github.io/warning-577062_1280-3000px.jpg"/>
         <itunes:explicit>true</itunes:explicit>
