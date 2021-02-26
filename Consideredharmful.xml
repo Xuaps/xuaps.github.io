@@ -3,12 +3,12 @@
     <channel>
         <title>Considered harmful</title>
         <link>https://xuaps.github.io</link>
-        <description>Technical discussions by coders</description>
+        <description>Discusiones técnicas de programadores para programadores con una pizca de humor.</description>
         <generator>Feeder 3 3.7.5(3340); Mac OS X Version 10.13.6 (Build 17G14042) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>es-es</language>
-        <pubDate>Sat, 20 Feb 2021 21:37:01 +0100</pubDate>
-        <lastBuildDate>Sat, 20 Feb 2021 21:37:01 +0100</lastBuildDate>
+        <pubDate>Fri, 26 Feb 2021 21:13:53 +0100</pubDate>
+        <lastBuildDate>Fri, 26 Feb 2021 21:13:54 +0100</lastBuildDate>
         <image>
             <url>http://xuaps.github.io/logo.jpg</url>
             <title>Considered harmful</title>
@@ -26,6 +26,18 @@
         <itunes:block>no</itunes:block>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Hablando sobre APIs</title>
+            <link>https://archive.org/details/davidvm-moualv</link>
+            <description><![CDATA[Mauro y David hablan largo y tendido sobre APIs, opiniones, experiencias y unas risas.]]></description>
+            <pubDate>Fri, 26 Feb 2021 21:13:45 +0100</pubDate>
+            <enclosure url="https://archive.org/download/davidvm-moualv/davidvm%20%26%20moualv.mp3" length="63834100" type="audio/mpeg"/>
+            <guid isPermaLink="false">51E12072-D0DF-4F5F-A004-A041FDC32C0E</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop</itunes:keywords>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Hablando sobre APIs</itunes:title>
+        </item>
         <item>
             <title>Respuestas a preguntas técnicas</title>
             <link>https://archive.org/details/tca_20210219</link>
