@@ -7,8 +7,8 @@
         <generator>Feeder 3 3.7.5(3340); Mac OS X Version 10.13.6 (Build 17G14042) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>es-es</language>
-        <pubDate>Mon, 01 Mar 2021 21:00:53 +0100</pubDate>
-        <lastBuildDate>Mon, 01 Mar 2021 21:00:53 +0100</lastBuildDate>
+        <pubDate>Fri, 05 Mar 2021 20:07:54 +0100</pubDate>
+        <lastBuildDate>Fri, 05 Mar 2021 20:07:55 +0100</lastBuildDate>
         <image>
             <url>http://xuaps.github.io/logo.jpg</url>
             <title>Considered harmful</title>
@@ -17,7 +17,6 @@
             <height>144</height>
         </image>
         <atom:link href="http://xuaps.github.io/Consideredharmful.xml" rel="self" type="application/rss+xml"/>
-        <itunes:email>admin@xuaps.com</itunes:email>
         <itunes:author>Mauro y David</itunes:author>
         <itunes:image href="http://xuaps.github.io/warning-577062_1280-3000px.jpg"/>
         <itunes:explicit>true</itunes:explicit>
@@ -29,6 +28,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>DDD y NOSQL</title>
+            <link>https://archive.org/details/ddd_y_nosql</link>
+            <description><![CDATA[Mauro y David hablan sobre bases de datos y cual puede encajar mejor en una arquitectura que sigue los patrones DDD.]]></description>
+            <pubDate>Fri, 05 Mar 2021 20:07:16 +0100</pubDate>
+            <enclosure url="https://archive.org/download/ddd_y_nosql/davidvm%20%26%20moualv.mp3" length="56741423" type="audio/mpeg"/>
+            <guid isPermaLink="false">1BC99BA7-1CE8-4A3F-A9DB-8008C63261D5</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop</itunes:keywords>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>DDD y NOSQL</itunes:title>
+        </item>
+        <item>
             <title>Hablando sobre APIs</title>
             <link>https://archive.org/details/davidvm-moualv</link>
             <description><![CDATA[Mauro y David hablan largo y tendido sobre APIs, opiniones, experiencias y unas risas.]]></description>
@@ -37,6 +50,8 @@
             <guid isPermaLink="false">51E12072-D0DF-4F5F-A004-A041FDC32C0E</guid>
             <itunes:author>Mauro y David</itunes:author>
             <itunes:keywords>coding,develop</itunes:keywords>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Hablando sobre APIs</itunes:title>
         </item>
@@ -49,6 +64,8 @@
             <guid isPermaLink="false">7AF692DB-14A6-4CDF-B0CF-685E15AB084A</guid>
             <itunes:author>Mauro y David</itunes:author>
             <itunes:keywords>coding,develop</itunes:keywords>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Respuestas a preguntas técnicas</itunes:title>
         </item>
