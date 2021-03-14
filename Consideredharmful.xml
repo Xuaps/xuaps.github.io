@@ -8,7 +8,7 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>es-es</language>
         <pubDate>Fri, 05 Mar 2021 20:07:54 +0100</pubDate>
-        <lastBuildDate>Fri, 05 Mar 2021 20:07:55 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 20:07:55 +0100</lastBuildDate>
         <image>
             <url>http://xuaps.github.io/logo.jpg</url>
             <title>Considered harmful</title>
@@ -27,6 +27,20 @@
         <itunes:block>no</itunes:block>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Legacy code</title>
+            <link>https://archive.org/details/legacy-code</link>
+            <description><![CDATA[Mauro y David hablan sobre su experiencia trabajando con legacy code.]]></description>
+            <pubDate>Fri, 12 Mar 2021 20:07:16 +0100</pubDate>
+            <enclosure url="https://archive.org/download/legacy-code/davidvm%20%26%20moualv.mp3" length="80790032" type="audio/mpeg"/>
+            <guid isPermaLink="false">3d559e73-e48f-4a73-87bf-0e8d0e48f575</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop</itunes:keywords>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Legacy code</itunes:title>
+        </item>
         <item>
             <title>DDD y NOSQL</title>
             <link>https://archive.org/details/ddd_y_nosql</link>
