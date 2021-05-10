@@ -32,7 +32,7 @@
             <link>https://archive.org/details/es-un-codigo-con-tests-es-un-codigo-mejor</link>
             <description><![CDATA[Mauro y David plantean algunas preguntas que suelen salir en entrevistas y tratan de contestarlas.]]></description>
             <pubDate>Mon, 10 May 2021 20:20:37 +0100</pubDate>
-            <enclosure url="https://ia601409.us.archive.org/10/items/es-un-codigo-con-tests-es-un-codigo-mejor/Es%20un%20código%20con%20tests%20es%20un%20código%20mejor.mp3" length="26936259" type="audio/mpeg"/>
+            <enclosure url="https://archive.org/download/es-un-codigo-con-tests-es-un-codigo-mejor/Es%20un%20código%20con%20tests%20es%20un%20código%20mejor.mp3" length="26936259" type="audio/mpeg"/>
             <guid isPermaLink="false">207e9347-be78-4967-b4e0-a5ed0f17eff7</guid>
             <itunes:author>Mauro, Iago y David</itunes:author>
             <itunes:keywords>tdd, testing, considered_harmful, podcast, code</itunes:keywords>
