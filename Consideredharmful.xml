@@ -28,6 +28,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Es un código con tests un código mejor?</title>
+            <link>https://archive.org/details/es-un-codigo-con-tests-es-un-codigo-mejor</link>
+            <description><![CDATA[Mauro y David plantean algunas preguntas que suelen salir en entrevistas y tratan de contestarlas.]]></description>
+            <pubDate>Mon, 10 May 2021 20:20:37 +0100</pubDate>
+            <enclosure url="https://archive.org/download/es-un-codigo-con-tests-es-un-codigo-mejor/Es%20un%20código%20con%20tests%20es%20un%20código%20mejor.mp3" length="26936259" type="audio/mpeg"/>
+            <guid isPermaLink="false">207e9347-be78-4967-b4e0-a5ed0f17eff7</guid>
+            <itunes:author>Mauro, Iago y David</itunes:author>
+            <itunes:keywords>tdd, testing, considered_harmful, podcast, code</itunes:keywords>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Es un código con tests un código mejor?</itunes:title>
+        </item>
+        <item>
             <title>Legacy code</title>
             <link>https://archive.org/details/legacy-code</link>
             <description><![CDATA[Mauro y David hablan sobre su experiencia trabajando con legacy code.]]></description>
