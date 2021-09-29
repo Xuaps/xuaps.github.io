@@ -97,5 +97,19 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Respuestas a preguntas técnicas</itunes:title>
         </item>
+        <item>
+            <title>Origen</title>
+            <link>https://archive.org/details/origen_202109</link>
+            <description><![CDATA[Cómo has llegado hasta aquí?]]></description>
+            <pubDate>Wed, 20 Sep 2021 20:20:37 +0100</pubDate>
+            <enclosure url="https://ia601507.us.archive.org/22/items/origen_202109/origen.mp3" length="12435473" type="audio/mpeg"/>
+            <guid isPermaLink="false">7AF692DB-14A6-4CDF-B1CF-685E15AB084A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Origen</itunes:title>
+        </item>
     </channel>
 </rss>
