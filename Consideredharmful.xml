@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <channel>
         <title>Considered harmful</title>
-        <link>https://xuaps.github.io</link>
+        <link>https://link.chtbl.com/f7fraYBW</link>
         <description>Discusiones técnicas de programadores para programadores con una pizca de humor.</description>
         <generator>Feeder 3 3.7.5(3340); Mac OS X Version 10.13.6 (Build 17G14042) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
@@ -28,11 +28,25 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Origen</title>
+            <link>https://link.chtbl.com/1_C1YbuO</link>
+            <description><![CDATA[Cómo has llegado hasta aquí?]]></description>
+            <pubDate>Wed, 20 Sep 2021 20:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601507.us.archive.org/22/items/origen_202109/origen.mp3" length="12435473" type="audio/mpeg"/>
+            <guid isPermaLink="false">7AF692DB-14A6-4CDF-B1CF-685E15AB084A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Origen</itunes:title>
+        </item>
+        <item>
             <title>Es un código con tests un código mejor?</title>
             <link>https://archive.org/details/es-un-codigo-con-tests-es-un-codigo-mejor</link>
             <description><![CDATA[Intentamos contestar esta pregunta recurrente Es un código con tests un código mejor?]]></description>
             <pubDate>Mon, 10 May 2021 20:20:37 +0100</pubDate>
-            <enclosure url="https://archive.org/download/es-un-codigo-con-tests-es-un-codigo-mejor/tdd-worthy.mp3" length="26936259" type="audio/mpeg"/>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/es-un-codigo-con-tests-es-un-codigo-mejor/tdd-worthy.mp3" length="26936259" type="audio/mpeg"/>
             <guid isPermaLink="false">207e9347-be78-4967-b4e0-a5ed0f17eff7</guid>
             <itunes:author>Mauro, Iago y David</itunes:author>
             <itunes:keywords>tdd, testing, considered_harmful, podcast, code</itunes:keywords>
@@ -46,7 +60,7 @@
             <link>https://archive.org/details/legacy-code</link>
             <description><![CDATA[Mauro y David hablan sobre su experiencia trabajando con legacy code.]]></description>
             <pubDate>Fri, 12 Mar 2021 20:07:16 +0100</pubDate>
-            <enclosure url="https://archive.org/download/legacy-code/davidvm%20%26%20moualv.mp3" length="80790032" type="audio/mpeg"/>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/legacy-code/davidvm%20%26%20moualv.mp3" length="80790032" type="audio/mpeg"/>
             <guid isPermaLink="false">3d559e73-e48f-4a73-87bf-0e8d0e48f575</guid>
             <itunes:author>Mauro y David</itunes:author>
             <itunes:keywords>coding,develop</itunes:keywords>
@@ -60,7 +74,7 @@
             <link>https://archive.org/details/ddd_y_nosql</link>
             <description><![CDATA[Mauro y David hablan sobre bases de datos y cual puede encajar mejor en una arquitectura que sigue los patrones DDD.]]></description>
             <pubDate>Fri, 05 Mar 2021 20:07:16 +0100</pubDate>
-            <enclosure url="https://archive.org/download/ddd_y_nosql/davidvm%20%26%20moualv.mp3" length="56741423" type="audio/mpeg"/>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/ddd_y_nosql/davidvm%20%26%20moualv.mp3" length="56741423" type="audio/mpeg"/>
             <guid isPermaLink="false">1BC99BA7-1CE8-4A3F-A9DB-8008C63261D5</guid>
             <itunes:author>Mauro y David</itunes:author>
             <itunes:keywords>coding,develop</itunes:keywords>
@@ -74,7 +88,7 @@
             <link>https://archive.org/details/davidvm-moualv</link>
             <description><![CDATA[Mauro y David hablan largo y tendido sobre APIs, opiniones, experiencias y unas risas.]]></description>
             <pubDate>Fri, 26 Feb 2021 21:13:45 +0100</pubDate>
-            <enclosure url="https://archive.org/download/davidvm-moualv/davidvm%20%26%20moualv.mp3" length="63834100" type="audio/mpeg"/>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/davidvm-moualv/davidvm%20%26%20moualv.mp3" length="63834100" type="audio/mpeg"/>
             <guid isPermaLink="false">51E12072-D0DF-4F5F-A004-A041FDC32C0E</guid>
             <itunes:author>Mauro y David</itunes:author>
             <itunes:keywords>coding,develop</itunes:keywords>
@@ -88,7 +102,7 @@
             <link>https://archive.org/details/tca_20210219</link>
             <description><![CDATA[Mauro y David plantean algunas preguntas que suelen salir en entrevistas y tratan de contestarlas.]]></description>
             <pubDate>Fri, 19 Feb 2021 20:20:37 +0100</pubDate>
-            <enclosure url="https://archive.org/download/tca_20210219/davidvm%20%26%20moualv.mp3" length="56741423" type="audio/mpeg"/>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/tca_20210219/davidvm%20%26%20moualv.mp3" length="56741423" type="audio/mpeg"/>
             <guid isPermaLink="false">7AF692DB-14A6-4CDF-B0CF-685E15AB084A</guid>
             <itunes:author>Mauro y David</itunes:author>
             <itunes:keywords>coding,develop</itunes:keywords>
@@ -96,20 +110,6 @@
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Respuestas a preguntas técnicas</itunes:title>
-        </item>
-        <item>
-            <title>Origen</title>
-            <link>https://archive.org/details/origen_202109</link>
-            <description><![CDATA[Cómo has llegado hasta aquí?]]></description>
-            <pubDate>Wed, 20 Sep 2021 20:20:37 +0100</pubDate>
-            <enclosure url="https://ia601507.us.archive.org/22/items/origen_202109/origen.mp3" length="12435473" type="audio/mpeg"/>
-            <guid isPermaLink="false">7AF692DB-14A6-4CDF-B1CF-685E15AB084A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:keywords>coding,develop</itunes:keywords>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Origen</itunes:title>
         </item>
     </channel>
 </rss>
