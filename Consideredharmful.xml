@@ -26,6 +26,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Waste</title>
+            <link>https://archive.org/details/waste_202110</link>
+            <description><![CDATA[Qué es waste? Tipos comunes y nuestra experiencia encontrándolo.]]></description>
+            <pubDate>Thu, 09 Oct 2021 20:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801401.us.archive.org/22/items/waste_202110/waste.mp3" length="23118746" type="audio/mpeg"/>
+            <guid isPermaLink="false">7AF693DB-14A6-4CDF-B1CF-685E15AB084A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop,agile,lean,waste</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Waste</itunes:title>
+        </item>
+        <item>
             <title>Origen</title>
             <link>https://link.chtbl.com/1_C1YbuO</link>
             <description><![CDATA[Cómo has llegado hasta aquí?]]></description>
