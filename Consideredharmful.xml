@@ -26,6 +26,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Pair programming</title>
+            <link>https://archive.org/details/mob_20211017</link>
+            <description><![CDATA[Hablamos sobre pair programming y lo comparamos con mob programming.]]></description>
+            <pubDate>Thu, 17 Oct 2021 20:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601508.us.archive.org/1/items/mob_20211017/mob.mp3" length="17424830" type="audio/mpeg"/>
+            <guid isPermaLink="false">7AF693DB-14A6-4CDF-B1CF-685E15AB034A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop,agile,lean,waste</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Pair programming</itunes:title>
+        </item>
+        <item>
             <title>Waste</title>
             <link>https://archive.org/details/waste_202110</link>
             <description><![CDATA[Qué es waste? Tipos comunes y nuestra experiencia encontrándolo.]]></description>
