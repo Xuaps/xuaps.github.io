@@ -26,6 +26,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Es waste?</title>
+            <link>https://archive.org/details/is-it-waste</link>
+            <description><![CDATA[Decidimos que prácticas son waste y cuales no.]]></description>
+            <pubDate>Thu, 21 Oct 2021 20:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/is-it-waste/is%20it%20waste.mp3" length="23865159" type="audio/mpeg"/>
+            <guid isPermaLink="false">7AF693DB-14A6-5CDF-B1CF-685E15AB034A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop,agile,lean,waste</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Es waste?</itunes:title>
+        </item>
+        <item>
             <title>Pair programming</title>
             <link>https://archive.org/details/mob_20211017</link>
             <description><![CDATA[Hablamos sobre pair programming y lo comparamos con mob programming.]]></description>
