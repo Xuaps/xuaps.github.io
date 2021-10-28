@@ -26,6 +26,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>SOLID is not solid</title>
+            <link>https://archive.org/details/solid_is_not_solid</link>
+            <description><![CDATA[Hacemos una crítica del libro SOLID is not solid, hablamos de CUPID y algo más.]]></description>
+            <pubDate>Thu, 28 Oct 2021 16:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601403.us.archive.org/35/items/solid_is_not_solid/solid_is_not_solid.mp3" length="24864025" type="audio/mpeg"/>
+            <guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-685E15AB034A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop,agile,lean,waste,solid,cupid</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>SOLID is not solid</itunes:title>
+        </item>
+        <item>
             <title>Es waste?</title>
             <link>https://archive.org/details/is-it-waste</link>
             <description><![CDATA[Decidimos que prácticas son waste y cuales no.]]></description>
