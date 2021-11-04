@@ -26,6 +26,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Decide lo más tarde posible</title>
+            <link>https://archive.org/details/delay-decisions</link>
+            <description><![CDATA[Último momento responsable o procrastinación? Intentamos arrojar algo de luz a este tema.]]></description>
+            <pubDate>Thu, 04 Nov 2021 16:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601409.us.archive.org/35/items/delay-decisions/delay%20decisions.mp3" length="15306822" type="audio/mpeg"/>
+            <guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-666E15AB034A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>coding,develop,agile,lean,waste</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Decide lo más tarde posible</itunes:title>
+        </item>
+        <item>
             <title>SOLID is not solid</title>
             <link>https://archive.org/details/solid_is_not_solid</link>
             <description><![CDATA[Hacemos una crítica del libro SOLID is not solid, hablamos de CUPID y algo más.]]></description>
