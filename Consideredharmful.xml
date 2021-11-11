@@ -26,6 +26,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Programación asíncrona</title>
+            <link>https://archive.org/details/asynchronous-programming</link>
+            <description><![CDATA[Hablamos sobre concurrencia y paralelismo y cómo JS nos ayuda a conseguirlo.]]></description>
+            <pubDate>Thu, 11 Nov 2021 16:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601404.us.archive.org/19/items/asynchronous-programming/asynchronous%20programming.mp3" length="19359827" type="audio/mpeg"/>
+            <guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-777E15AB034A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>desarrollo,software,agile,lean,javascript</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Programación asíncrona</itunes:title>
+        </item>
+        <item>
             <title>Decide lo más tarde posible</title>
             <link>https://archive.org/details/delay-decisions</link>
             <description><![CDATA[Último momento responsable o procrastinación? Intentamos arrojar algo de luz a este tema.]]></description>
