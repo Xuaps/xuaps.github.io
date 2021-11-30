@@ -26,6 +26,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Deuda técnica</title>
+            <link>https://archive.org/details/deuda-tecnica</link>
+            <description><![CDATA[Hablamos sobre distintos tipos de código y cómo mantenerlos controlados :)]]></description>
+            <pubDate>Tue, 30 Nov 2021 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801501.us.archive.org/5/items/deuda-tecnica/Deuda%20tecnica.mp3" length="21982581" type="audio/mpeg"/>
+            <guid isPermaLink="false">9BC783DB-14A6-5CDF-B1DF-777E15AB034A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>lean, agile, considered harmful, podcast, developers, code</itunes:keywords>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Deuda técnica</itunes:title>
+        </item>
+        <item>
             <title>Entrega tan rápido como puedas</title>
             <link>https://archive.org/details/entrega-tan-rapido-como-puedas</link>
             <description><![CDATA[Hablamos sobre kanban, entrega de valor, equipos auto organizados y en general como entregar tan rápido como sea posible.]]></description>
