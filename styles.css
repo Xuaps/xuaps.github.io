@@ -1,0 +1,25 @@
+body {
+  background-color: #585A59;
+  font-size:   1.5em;
+  font-weight: bold;
+  color      : white;
+}
+
+a {
+  font-family: Helvetica;
+  text-decoration: none;
+}
+a:link    { color: white; }
+a:visited { color: white; }
+a:hover   { color: white; }
+a:active  { color: white; }
+
+.logo {
+  width: 70%;
+  margin-top: 200px;
+}
+
+.centered-paragraph {
+  text-align: center;
+  margin-bottom: 50px;
+}
