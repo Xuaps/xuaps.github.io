@@ -27,6 +27,21 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Salarios</title>
+            <link>https://archive.org/details/salarios</link>
+            <description><![CDATA[Le damos una pensada a la industria sus salarios y divagamos un poco sobre el futuro.]]></description>
+            <pubDate>Thu, 20 Jan 2022 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601407.us.archive.org/28/items/salarios/salarios.mp3" length="14049778" type="audio/mpeg"/>
+            <guid isPermaLink="false">8AD553DB-14A6-5CDF-B1DF-777E15AB034A</guid>
+            <itunes:summary>Le damos una pensada a la industria sus salarios y divagamos un poco sobre el futuro.</itunes:summary>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>programación,desarrollo,paradigmas,lenguajes,agile,lean,código,arquitectura,frameworks,librerías</itunes:keywords>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Salarios</itunes:title>
+        </item>
+        <item>
             <title>Retro 2021</title>
             <link>https://archive.org/details/retro_2021</link>
             <description><![CDATA[Hacemos retrospectiva del año 2021 y hablamos del futuro del podcast y de nuestros intereses.]]></description>
