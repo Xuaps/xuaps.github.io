@@ -27,6 +27,23 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>La mente del programador</title>
+            <link>https://archive.org/details/the-programmers-brain</link>
+            <description><![CDATA[Comentamos los dos primeros dos capítulos de The Programmer's Brain.
+]]></description>
+            <pubDate>Thu, 27 Jan 2022 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801505.us.archive.org/18/items/the-programmers-brain/the%20programmers%20brain.mp3" length="15303569" type="audio/mpeg"/>
+            <guid isPermaLink="false">8AD553DB-14A6-5CDF-B2CF-777E15AB034A</guid>
+            <itunes:summary>Comentamos los dos primeros dos capítulos de The Programmer's Brain.
+</itunes:summary>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>programación,desarrollo,paradigmas,lenguajes,agile,lean,código,arquitectura,frameworks,librerías</itunes:keywords>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>La mente del programador</itunes:title>
+        </item>
+        <item>
             <title>Salarios</title>
             <link>https://archive.org/details/salarios</link>
             <description><![CDATA[Le damos una pensada a la industria sus salarios y divagamos un poco sobre el futuro.]]></description>
