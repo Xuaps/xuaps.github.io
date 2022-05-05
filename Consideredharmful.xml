@@ -27,6 +27,22 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Arquitectura evolutiva</title>
+            <link>https://archive.org/details/arquitectura_evolutiva</link>
+            <description><![CDATA[Comentamos el libro Building Evolutionary Architectures. Fitness functions, facilitar el cambio, desplegar código, construir código y mucho más. #ConsideredHarmful]]></description>
+            <pubDate>Thu, 05 May 2022 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601502.us.archive.org/26/items/arquitectura_evolutiva/arquitectura_evolutiva.mp3" length="21492637" type="audio/mpeg"/>
+            <guid isPermaLink="false">8FF344DB-14A6-5CDF-B2CF-899E15AD356A</guid>
+            <itunes:summary>Comentamos el libro Building Evolutionary Architectures. Fitness functions, facilitar el cambio, desplegar código, construir código y mucho más. #ConsideredHarmful
+            </itunes:summary>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>arquitectura,programación,desarrollo,paradigmas,lenguajes,agile,lean,código,arquitectura,frameworks,librerías,tdd</itunes:keywords>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>11</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Arquitectura evolutiva</itunes:title>
+        </item>
+        <item>
             <title>Lecciones aprendidas</title>
             <link>https://archive.org/details/errores_202204</link>
             <description><![CDATA[Algunos errores que hemos cometido visto en retrospectiva y qué haríamos a día de hoy. No te lo puedes perder #ConsideredHarmful]]></description>
