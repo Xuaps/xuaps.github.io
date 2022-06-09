@@ -27,6 +27,23 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Resumen temporada</title>
+            <link>https://archive.org/details/resumen_temporada</link>
+            <description><![CDATA[Echamos un vistazo a todos los capítulos de esta última temporada. Nuevas ideas y cosas que han cambiado en estos últimos meses. Si sólo puedes escuchar un capítulo que sea este #ConsideredHarmful.
+]]></description>
+            <pubDate>Thu, 09 Jun 2022 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/resumen_temporada/resumen_temporada.mp3" length="24283694" type="audio/mpeg"/>
+            <guid isPermaLink="false">8CC178DC-14A6-5CDF-B2CF-888C15AD356A</guid>
+            <itunes:summary>Echamos un vistazo a todos los capítulos de esta última temporada. Nuevas ideas y cosas que han cambiado en estos últimos meses. Si sólo puedes escuchar un capítulo que sea este #ConsideredHarmful.
+            </itunes:summary>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>arquitectura,programación,desarrollo,paradigmas,lenguajes,agile,lean,código,arquitectura,frameworks,librerías,tdd</itunes:keywords>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>15</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Resumen temporada</itunes:title>
+        </item>
+        <item>
             <title>Sorpresa</title>
             <link>https://archive.org/details/caja_sorpresa</link>
             <description><![CDATA[Episodio sorpresa. En el penúltimo episodio de la temporada Mauro elige la caja sorpresa. A pesar de eso creo que nos ha quedado un buen programa, juzga tu misma #ConsideredHarmful.
