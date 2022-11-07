@@ -27,6 +27,22 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Managers</title>
+            <link>https://archive.org/details/managers</link>
+            <description><![CDATA[Animal mitológico, rol innecesario o parte fundamental de un equipo de producto? Hablamos sobre las atribuciones que suele tener un manager y si se puede vivir sin ellos. #ConsideredHarmful]]></description>
+            <pubDate>Mon, 07 Nov 2022 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601404.us.archive.org/28/items/managers/managers.mp3" length="26641175" type="audio/mpeg"/>
+            <guid isPermaLink="false">9FF278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
+            <itunes:summary>Animal mitológico, rol innecesario o parte fundamental de un equipo de producto? Hablamos sobre las atribuciones que suele tener un manager y si se puede vivir sin ellos. #ConsideredHarmful
+</itunes:summary>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>arquitectura,programación,desarrollo,paradigmas,lenguajes,agile,lean,código,arquitectura,frameworks,librerías,tdd</itunes:keywords>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Managers</itunes:title>
+        </item>
+        <item>
             <title>Mentoría en vivo 1</title>
             <link>https://archive.org/details/mentoring_one</link>
             <description><![CDATA[Teníamos ganas de ponernos al día, hablar de cómo nos sentimos y que nos preocupa, cuáles son nuestras inquietudes y donde invertimos nuestro tiempo. Y pensamos, ¿qué mejor que una mentoría? ¿por qué no grabarla? Nos ha gustado la experiencia así que probablemente esta sea la primera de muchas. Esperamos que también os guste. #ConsideredHarmful]]></description>
