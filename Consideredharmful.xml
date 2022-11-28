@@ -27,6 +27,21 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Incentivos</title>
+            <link>https://archive.org/details/incentivos</link>
+            <description><![CDATA[Deuda técnica e incentivos, ¿existe alguna relación? ¿Podemos usar los incentivos para dirigir el comportamiento del equipo? ¿Será que David ya está muy mayor? #ConsideredHarmful]]></description>
+            <pubDate>Mon, 28 Nov 2022 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601507.us.archive.org/30/items/incentivos/incentivos.mp3" length="15860377" type="audio/mpeg"/>
+            <guid isPermaLink="false">5FF278DC-14B5-5CDF-B2CF-987DD6AD777C</guid>
+            <itunes:summary>Deuda técnica e incentivos, ¿existe alguna relación? ¿Podemos usar los incentivos para dirigir el comportamiento del equipo? ¿Será que David ya está muy mayor? #ConsideredHarmful</itunes:summary>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:keywords>arquitectura,programación,desarrollo,paradigmas,lenguajes,agile,lean,código,arquitectura,frameworks,librerías,tdd</itunes:keywords>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Incentivos</itunes:title>
+        </item>
+        <item>
             <title>Lo del Twitter</title>
             <link>https://archive.org/details/twitter_20221120</link>
             <description><![CDATA[¡Vuelven los cuñados! Hablamos sobre nuestra impresión de lo que está pasando en Twitter y cómo afecta al mercado para terminar hablando de empresas locales y de la industria gallega. Uno de esos episodios que no te puedes perder si quieres echarte unas risas.]]></description>
