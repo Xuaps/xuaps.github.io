@@ -27,6 +27,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Algunos tipos de programadores considered harmful.</title>
+            <link>https://archive.org/details/algunos-tipos-de-programador-considered-harmful</link>
+            <description><![CDATA[Nos inventamos una taxonomía de los malos tipos de programadores con los que nos hemos encontrado y los skills que creemos que les faltaban. Después de la broma terminamos hablando de makers y menders. ¿Qué tipo eres tú?]]></description>
+            <pubDate>Mon, 23 Jan 2023 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia904706.us.archive.org/9/items/algunos-tipos-de-programador-considered-harmful/Algunos%20tipos%20de%20programador%20considered%20harmful.mp3" length="26632705" type="audio/mpeg"/>
+            <guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD222A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:summary>Nos inventamos una taxonomía de los malos tipos de programadores con los que nos hemos encontrado y los skills que creemos que les faltaban. Después de la broma terminamos hablando de makers y menders. ¿Qué tipo eres tú?</itunes:summary>
+            <itunes:season>5</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Algunos tipos de programadores considered harmful.</itunes:title>
+        </item>
+        <item>
             <title>Oficina</title>
             <link>https://archive.org/details/oficina_202212</link>
             <description><![CDATA[Muchas empresas están llamando a volver a la oficina a sus empleados. ¿Qué está pasando? ¿No sabemos trabajar en remoto? ¿No queremos? Compartimos nuestras experiencias y discutimos argumentos a favor y en contra.]]></description>
