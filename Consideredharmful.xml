@@ -27,6 +27,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Tech leads considered harmful</title>
+            <link>https://archive.org/details/tech-leads-considered-harmful</link>
+            <description><![CDATA[Smell, necesarios o inevitables? Hablamos de nuestra experiencia ejerciendo este rol, de lo que nos ha funcionado, lo que no y como evitarlos a toda costa.]]></description>
+            <pubDate>Mon, 30 Jan 2023 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://ia804700.us.archive.org/7/items/tech-leads-considered-harmful/Tech_leads_considered_harmful.mp3" length="15660469" type="audio/mpeg"/>
+            <guid isPermaLink="false">8DD278DC-09B5-5CDF-B2CF-554DD6AD222A</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:summary>Smell, necesarios o inevitables? Hablamos de nuestra experiencia ejerciendo este rol, de lo que nos ha funcionado, lo que no y como evitarlos a toda costa.</itunes:summary>
+            <itunes:season>5</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Tech leads considered harmful</itunes:title>
+        </item>
+        <item>
             <title>Algunos tipos de programadores considered harmful.</title>
             <link>https://archive.org/details/algunos-tipos-de-programador-considered-harmful</link>
             <description><![CDATA[Nos inventamos una taxonomía de los malos tipos de programadores con los que nos hemos encontrado y los skills que creemos que les faltaban. Después de la broma terminamos hablando de makers y menders. ¿Qué tipo eres tú?]]></description>
