@@ -27,6 +27,20 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Medir la salud del equipo considered harmful</title>
+            <link>https://archive.org/details/health-check</link>
+            <description><![CDATA[¿Cómo medir la salud del equipo? ¿Qué modos hay? ¿Sirve para algo? ¿Por qué lo hacemos? Estas son algunas de las preguntas que intentamos contestar a lo largo de este nuevo episodio.]]></description>
+            <pubDate>Mon, 06 Feb 2023 18:20:37 +0100</pubDate>
+            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/health-check/health%20check.mp3" length="27000961" type="audio/mpeg"/>
+            <guid isPermaLink="false">8DD278DC-09B5-5CDF-B2CF-554DD6AD111B</guid>
+            <itunes:author>Mauro y David</itunes:author>
+            <itunes:summary>¿Cómo medir la salud del equipo? ¿Qué modos hay? ¿Sirve para algo? ¿Por qué lo hacemos? Estas son algunas de las preguntas que intentamos contestar a lo largo de este nuevo episodio.</itunes:summary>
+            <itunes:season>5</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Medir la salud del equipo considered harmful</itunes:title>
+        </item>
+        <item>
             <title>Tech leads considered harmful</title>
             <link>https://archive.org/details/tech-leads-considered-harmful</link>
             <description><![CDATA[Smell, necesarios o inevitables? Hablamos de nuestra experiencia ejerciendo este rol, de lo que nos ha funcionado, lo que no y como evitarlos a toda costa.]]></description>
