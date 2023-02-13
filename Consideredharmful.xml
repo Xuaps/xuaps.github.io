@@ -1,679 +1,737 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-    <channel>
-        <title>Considered harmful</title>
-        <link>https://link.chtbl.com/f7fraYBW</link>
-        <description>Podcast dedicado al desarrollo de software. Hablamos de clean code, arquitectura, lenguajes de programación, buenas prácticas y cualquier cosa relacionada con el mundo de la programación en general. En cada capítulo nos enfocamos en un tema distinto e intentamos abordarlo desde diferentes puntos de vista. Únete a nuestra comunidad https://t.me/consideredharmful</description>
-        <language>es-es</language>
-        <copyright>Creative Commons: Attribution-NoDerivatives 4.0 International</copyright>
-        <pubDate>Sat, 14 Jan 2023 23:46:39 +0100</pubDate>
-        <lastBuildDate>Sat, 14 Jan 2023 23:46:39 +0100</lastBuildDate>
-        <image>
-            <url>http://xuaps.github.io/logo.jpg</url>
-            <title>Considered harmful</title>
-            <link>https://link.chtbl.com/f7fraYBW</link>
-            <width>144</width>
-            <height>144</height>
-        </image>
-        <atom:link href="https://xuaps.github.io/Consideredharmful.xml" rel="self" type="application/rss+xml"/>
-        <itunes:summary>Podcast dedicado al desarrollo de software. Hablamos de clean code, arquitectura, lenguajes de programación, buenas prácticas y cualquier cosa relacionada con el mundo de la programación en general. En cada capítulo nos enfocamos en un tema distinto e intentamos abordarlo desde diferentes puntos de vista. Contáctenos en @xuapsdev.</itunes:summary>
-        <itunes:author>Mauro, David and Friends</itunes:author>
-        <itunes:image href="http://xuaps.github.io/cover.jpg"/>
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:owner>
-            <itunes:name>Xuaps</itunes:name>
-            <itunes:email>admin@xuaps.com</itunes:email>
-        </itunes:owner>
-        <itunes:category text="Technology"/>
-        <itunes:type>episodic</itunes:type>
-        <item>
-            <title>Medir la salud del equipo considered harmful</title>
-            <link>https://archive.org/details/health-check</link>
-            <description><![CDATA[¿Cómo medir la salud del equipo? ¿Qué modos hay? ¿Sirve para algo? ¿Por qué lo hacemos? Estas son algunas de las preguntas que intentamos contestar a lo largo de este nuevo episodio.]]></description>
-            <pubDate>Mon, 06 Feb 2023 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/health-check/health%20check.mp3" length="27000961" type="audio/mpeg"/>
-            <guid isPermaLink="false">8DD278DC-09B5-5CDF-B2CF-554DD6AD111B</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¿Cómo medir la salud del equipo? ¿Qué modos hay? ¿Sirve para algo? ¿Por qué lo hacemos? Estas son algunas de las preguntas que intentamos contestar a lo largo de este nuevo episodio.</itunes:summary>
-            <itunes:season>5</itunes:season>
-            <itunes:episode>3</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Medir la salud del equipo considered harmful</itunes:title>
-        </item>
-        <item>
-            <title>Tech leads considered harmful</title>
-            <link>https://archive.org/details/tech-leads-considered-harmful</link>
-            <description><![CDATA[Smell, necesarios o inevitables? Hablamos de nuestra experiencia ejerciendo este rol, de lo que nos ha funcionado, lo que no y como evitarlos a toda costa.]]></description>
-            <pubDate>Mon, 30 Jan 2023 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia804700.us.archive.org/7/items/tech-leads-considered-harmful/Tech_leads_considered_harmful.mp3" length="15660469" type="audio/mpeg"/>
-            <guid isPermaLink="false">8DD278DC-09B5-5CDF-B2CF-554DD6AD222A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Smell, necesarios o inevitables? Hablamos de nuestra experiencia ejerciendo este rol, de lo que nos ha funcionado, lo que no y como evitarlos a toda costa.</itunes:summary>
-            <itunes:season>5</itunes:season>
-            <itunes:episode>2</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Tech leads considered harmful</itunes:title>
-        </item>
-        <item>
-            <title>Algunos tipos de programadores considered harmful.</title>
-            <link>https://archive.org/details/algunos-tipos-de-programador-considered-harmful</link>
-            <description><![CDATA[Nos inventamos una taxonomía de los malos tipos de programadores con los que nos hemos encontrado y los skills que creemos que les faltaban. Después de la broma terminamos hablando de makers y menders. ¿Qué tipo eres tú?]]></description>
-            <pubDate>Mon, 23 Jan 2023 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia904706.us.archive.org/9/items/algunos-tipos-de-programador-considered-harmful/Algunos%20tipos%20de%20programador%20considered%20harmful.mp3" length="26632705" type="audio/mpeg"/>
-            <guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD222A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Nos inventamos una taxonomía de los malos tipos de programadores con los que nos hemos encontrado y los skills que creemos que les faltaban. Después de la broma terminamos hablando de makers y menders. ¿Qué tipo eres tú?</itunes:summary>
-            <itunes:season>5</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Algunos tipos de programadores considered harmful.</itunes:title>
-        </item>
-        <item>
-            <title>Oficina</title>
-            <link>https://archive.org/details/oficina_202212</link>
-            <description><![CDATA[Muchas empresas están llamando a volver a la oficina a sus empleados. ¿Qué está pasando? ¿No sabemos trabajar en remoto? ¿No queremos? Compartimos nuestras experiencias y discutimos argumentos a favor y en contra.]]></description>
-            <pubDate>Mon, 19 Dec 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801404.us.archive.org/22/items/oficina_202212/oficina.mp3" length="24474460" type="audio/mpeg"/>
-            <guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD111A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Muchas empresas están llamando a volver a la oficina a sus empleados. ¿Qué está pasando? ¿No sabemos trabajar en remoto? ¿No queremos? Compartimos nuestras experiencias y discutimos argumentos a favor y en contra.</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>13</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Oficina</itunes:title>
-        </item>
-        <item>
-            <title>Programador E2E</title>
-            <link>https://archive.org/details/programador_e2e</link>
-            <description><![CDATA[En este capítulo nos apetecía comentar esta newsletter de Javi Santana https://javisantana.substack.com/p/a-la-segunda-todo-sale-bien-el-end. Le sacamos un poco de punta y discrepamos en el fondo del artículo, ¿quién tiene razón? Probablemente ninguno.]]></description>
-            <pubDate>Mon, 12 Dec 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801502.us.archive.org/4/items/programador_e2e/programador_e2e.mp3" length="18119965" type="audio/mpeg"/>
-            <guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD777C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>En este capítulo nos apetecía comentar esta newsletter de Javi Santana https://javisantana.substack.com/p/a-la-segunda-todo-sale-bien-el-end. Le sacamos un poco de punta y discrepamos en el fondo del artículo, ¿quién tiene razón? Probablemente ninguno.</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>12</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Programador E2E</itunes:title>
-        </item>
-        <item>
-            <title>Objetivos</title>
-            <link>https://archive.org/details/objetivos_202212</link>
-            <description><![CDATA[Llega ese momento del año en el que tenemos que echar la vista atrás para ver que hemos hecho y que queremos hacer. Hablamos de objetivos, de nuestra experiencia y os damos nuestra, como siempre, desinformada opinión. #ConsideredHarmful Escucha el último episodio https://link.chtbl.com/f7fraYBW Comenta tu opinión en nuestra comunidad https://t.me/consideredharmful]]></description>
-            <pubDate>Mon, 05 Dec 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia904706.us.archive.org/13/items/objetivos_202212/objetivos.mp3" length="22385565" type="audio/mpeg"/>
-            <guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-987DD6AD777C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Llega ese momento del año en el que tenemos que echar la vista atrás para ver que hemos hecho y que queremos hacer. Hablamos de objetivos, de nuestra experiencia y os damos nuestra, como siempre, desinformada opinión. #ConsideredHarmful Escucha el último episodio https://link.chtbl.com/f7fraYBW Comenta tu opinión en nuestra comunidad https://t.me/consideredharmful</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>11</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Objetivos</itunes:title>
-        </item>
-        <item>
-            <title>Incentivos</title>
-            <link>https://archive.org/details/incentivos</link>
-            <description><![CDATA[Deuda técnica e incentivos, ¿existe alguna relación? ¿Podemos usar los incentivos para dirigir el comportamiento del equipo? ¿Será que David ya está muy mayor? #ConsideredHarmful]]></description>
-            <pubDate>Mon, 28 Nov 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601507.us.archive.org/30/items/incentivos/incentivos.mp3" length="15860377" type="audio/mpeg"/>
-            <guid isPermaLink="false">5FF278DC-14B5-5CDF-B2CF-987DD6AD777C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Deuda técnica e incentivos, ¿existe alguna relación? ¿Podemos usar los incentivos para dirigir el comportamiento del equipo? ¿Será que David ya está muy mayor? #ConsideredHarmful</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>10</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Incentivos</itunes:title>
-        </item>
-        <item>
-            <title>Lo del Twitter</title>
-            <link>https://archive.org/details/twitter_20221120</link>
-            <description><![CDATA[¡Vuelven los cuñados! Hablamos sobre nuestra impresión de lo que está pasando en Twitter y cómo afecta al mercado para terminar hablando de empresas locales y de la industria gallega. Uno de esos episodios que no te puedes perder si quieres echarte unas risas.]]></description>
-            <pubDate>Mon, 21 Nov 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601505.us.archive.org/26/items/twitter_20221120/twitter.mp3" length="19651014" type="audio/mpeg"/>
-            <guid isPermaLink="false">5FF278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¡Vuelven los cuñados! Hablamos sobre nuestra impresión de lo que está pasando en Twitter y cómo afecta al mercado para terminar hablando de empresas locales y de la industria gallega. Uno de esos episodios que no te puedes perder si quieres echarte unas risas.</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>9</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Lo del Twitter</itunes:title>
-        </item>
-        <item>
-            <title>Spikes</title>
-            <link>https://archive.org/details/spikes</link>
-            <description><![CDATA[Hablamos de una de nuestras herramientas favoritas. ¿Qué son? ¿Para qué sirven? ¿Cómo las usamos? Corto y al pie! #ConsideredHarmful]]></description>
-            <pubDate>Mon, 14 Nov 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia904706.us.archive.org/18/items/spikes/spikes.mp3" length="15841922" type="audio/mpeg"/>
-            <guid isPermaLink="false">9AA278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Hablamos de una de nuestras herramientas favoritas. ¿Qué son? ¿Para qué sirven? ¿Cómo las usamos? Corto y al pie! #ConsideredHarmful</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>8</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Spikes</itunes:title>
-        </item>
-        <item>
-            <title>Managers</title>
-            <link>https://archive.org/details/managers</link>
-            <description><![CDATA[Animal mitológico, rol innecesario o parte fundamental de un equipo de producto? Hablamos sobre las atribuciones que suele tener un manager y si se puede vivir sin ellos. #ConsideredHarmful]]></description>
-            <pubDate>Mon, 07 Nov 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601404.us.archive.org/28/items/managers/managers.mp3" length="26641175" type="audio/mpeg"/>
-            <guid isPermaLink="false">9FF278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Animal mitológico, rol innecesario o parte fundamental de un equipo de producto? Hablamos sobre las atribuciones que suele tener un manager y si se puede vivir sin ellos. #ConsideredHarmful
-</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>7</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Managers</itunes:title>
-        </item>
-        <item>
-            <title>Mentoría en vivo 1</title>
-            <link>https://archive.org/details/mentoring_one</link>
-            <description><![CDATA[Teníamos ganas de ponernos al día, hablar de cómo nos sentimos y que nos preocupa, cuáles son nuestras inquietudes y donde invertimos nuestro tiempo. Y pensamos, ¿qué mejor que una mentoría? ¿por qué no grabarla? Nos ha gustado la experiencia así que probablemente esta sea la primera de muchas. Esperamos que también os guste. #ConsideredHarmful]]></description>
-            <pubDate>Sun, 23 Oct 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601507.us.archive.org/35/items/mentoring_one/mentoring_one.mp3" length="22353673" type="audio/mpeg"/>
-            <guid isPermaLink="false">9FF278DC-14B5-5CDF-B2CF-987C15AD357C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Teníamos ganas de ponernos al día, hablar de cómo nos sentimos y que nos preocupa, cuáles son nuestras inquietudes y donde invertimos nuestro tiempo. Y pensamos, ¿qué mejor que una mentoría? ¿por qué no grabarla? Nos ha gustado la experiencia así que probablemente esta sea la primera de muchas. Esperamos que también os guste. #ConsideredHarmful</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>6</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Mentoría en vivo 1</itunes:title>
-        </item>
-        <item>
-            <title>Local first</title>
-            <link>https://archive.org/details/localfirst_202210</link>
-            <description><![CDATA[¿Te imaginas un mundo en el que la web renderiza 60 veces en un segundo, las UIs son fluidas y tus datos son solo tuyos? Estos son algunos de los objetivos de las aplicaciones local-first. En este episodio charlamos sobre ello. #ConsideredHarmful]]></description>
-            <pubDate>Sun, 16 Oct 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601506.us.archive.org/31/items/localfirst_202210/localfirst.mp3" length="17248105" type="audio/mpeg"/>
-            <guid isPermaLink="false">9DD178DC-14B5-5CDF-B2CF-987C15AD357C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¿Te imaginas un mundo en el que la web renderiza 60 veces en un segundo, las UIs son fluidas y tus datos son solo tuyos? Estos son algunos de los objetivos de las aplicaciones local-first. En este episodio charlamos sobre ello. #ConsideredHarmful</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>5</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Local first</itunes:title>
-        </item>
-        <item>
-            <title>Bootcamps</title>
-            <link>https://archive.org/details/bootcamps</link>
-            <description><![CDATA[¿Sí o no a los bootcamps? ¿Qué tienen de bueno? ¿Qué echamos en falta? Si te interesa la opinión de dos personas que no han hecho un bootcamp, no te puedes perder este episodio :) #ConsideredHarmful
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Considered harmful]]></title>
+		<description><![CDATA[Podcast dedicado al desarrollo de software. Hablamos de clean code, arquitectura, lenguajes de programación, buenas prácticas y cualquier cosa relacionada con el mundo de la programación en general. En cada capítulo nos enfocamos en un tema distinto e intentamos abordarlo desde diferentes puntos de vista. Únete a nuestra comunidad https://t.me/consideredharmful]]></description>
+		<link>https://anchor.fm/consideredharmful</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg</url>
+			<title>Considered harmful</title>
+			<link>https://anchor.fm/consideredharmful</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Mon, 13 Feb 2023 14:44:08 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Xuaps]]></author>
+		<copyright><![CDATA[Xuaps]]></copyright>
+		<language><![CDATA[es-es]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Xuaps</itunes:author>
+		<itunes:summary>Podcast dedicado al desarrollo de software. Hablamos de clean code, arquitectura, lenguajes de programación, buenas prácticas y cualquier cosa relacionada con el mundo de la programación en general. En cada capítulo nos enfocamos en un tema distinto e intentamos abordarlo desde diferentes puntos de vista. Únete a nuestra comunidad https://t.me/consideredharmful</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Xuaps</itunes:name>
+			<itunes:email>admin@xuaps.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[ Código degradado considered harmful]]></title>
+			<description><![CDATA[El código limpio no existe. Cualquier solución es perecedera y acaba degradándose. Cómo combatimos esta degradación? Se ha escrito mucho sobre cómo prevenirla pero todos sabemos que tarde o temprano aparecerá. ¿Está tu equipo preparado?
 ]]></description>
-            <pubDate>Mon, 10 Oct 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601403.us.archive.org/3/items/bootcamps/bootcamps.mp3" length="23849912" type="audio/mpeg"/>
-            <guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-987C15AD357C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¿Sí o no a los bootcamps? ¿Qué tienen de bueno? ¿Qué echamos en falta? Si te interesa la opinión de dos personas que no han hecho un bootcamp, no te puedes perder este episodio :) #ConsideredHarmful
+			<link>https://anchor.fm/consideredharmful/episodes/Cdigo-degradado-considered-harmful-e1urocj</link>
+			<guid isPermaLink="false">7e0a6069-4c97-4f86-96f5-c96a6700eb7d</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 13 Feb 2023 14:38:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64921427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-12%2Ff96d3b06-818f-2ea6-fe49-cc8693246b01.mp3" length="24811391" type="audio/mpeg"/>
+			<itunes:summary>El código limpio no existe. Cualquier solución es perecedera y acaba degradándose. Cómo combatimos esta degradación? Se ha escrito mucho sobre cómo prevenirla pero todos sabemos que tarde o temprano aparecerá. ¿Está tu equipo preparado?
 </itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>4</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Bootcamps</itunes:title>
-        </item>
-        <item>
-            <title>Seniority</title>
-            <link>https://archive.org/details/senority</link>
-            <description><![CDATA[En este capítulo analizamos al desarrollador senior, como medimos la senority, como afecta a nuestro salario, discutimos si es un modelo justo o no y mucho más. Vente a echarte unas risas con #ConsideredHarmful]]></description>
-            <pubDate>Mon, 03 Oct 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601507.us.archive.org/24/items/senority/senority.mp3" length="28247231" type="audio/mpeg"/>
-            <guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-777C15AD357C</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>En este capítulo analizamos al desarrollador senior, como medimos la senority, como afecta a nuestro salario, discutimos si es un modelo justo o no y mucho más. Vente a echarte unas risas con #ConsideredHarmful</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>3</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Seniority</itunes:title>
-        </item>
-        <item>
-            <title>Estructuras organizativas</title>
-            <link>https://archive.org/details/team_organization</link>
-            <description><![CDATA[¿Cómo afecta la estructura de tu equipo a tus diseños y arquitectura? ¿Qué elementos influyen en la comunicación de tu equipo? ¿Cuando un equipo es demasiado grande? Estas y otras cuestiones en el segundo episodio de la cuarta temporada de #ConsideredHarmful]]></description>
-            <pubDate>Mon, 26 Sep 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/team_organization/team_organization.mp3" length="29893812" type="audio/mpeg"/>
-            <guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-777C15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¿Cómo afecta la estructura de tu equipo a tus diseños y arquitectura? ¿Qué elementos influyen en la comunicación de tu equipo? ¿Cuando un equipo es demasiado grande? Estas y otras cuestiones en el segundo episodio de la cuarta temporada de #ConsideredHarmful</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>2</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Estructuras organizativas</itunes:title>
-        </item>
-        <item>
-            <title>Arquitectura y mantenibilidad</title>
-            <link>https://archive.org/details/architecture_and_mantainability</link>
-            <description><![CDATA[Hablamos sobre arquitectura y mantenibilidad. ¿Afecta la arquitectura a lo mantenible que sea nuestro proyecto? ¿Hay arquitecturas más sostenibles que otras? Estas y otras preguntas en el primer episodio de la cuarta temporada de #ConsideredHarmful]]></description>
-            <pubDate>Mon, 19 Sep 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601401.us.archive.org/1/items/architecture_and_mantainability/architecture_and_mantainability.mp3" length="21943670" type="audio/mpeg"/>
-            <guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-888C15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Hablamos sobre arquitectura y mantenibilidad. ¿Afecta la arquitectura a lo mantenible que sea nuestro proyecto? ¿Hay arquitecturas más sostenibles que otras? Estas y otras preguntas en el primer episodio de la cuarta temporada de #ConsideredHarmful</itunes:summary>
-            <itunes:season>4</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Arquitectura y mantenibilidad</itunes:title>
-        </item>
-        <item>
-            <title>Resumen temporada</title>
-            <link>https://archive.org/details/resumen_temporada</link>
-            <description><![CDATA[Echamos un vistazo a todos los capítulos de esta última temporada. Nuevas ideas y cosas que han cambiado en estos últimos meses. Si sólo puedes escuchar un capítulo que sea este #ConsideredHarmful.
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:29:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Medir la salud del equipo considered harmful]]></title>
+			<description><![CDATA[¿Cómo medir la salud del equipo? ¿Qué modos hay? ¿Sirve para algo? ¿Por qué lo hacemos? Estas son algunas de las preguntas que intentamos contestar a lo largo de este nuevo episodio.
 ]]></description>
-            <pubDate>Thu, 09 Jun 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/resumen_temporada/resumen_temporada.mp3" length="24283694" type="audio/mpeg"/>
-            <guid isPermaLink="false">8CC178DC-14A6-5CDF-B2CF-888C15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Echamos un vistazo a todos los capítulos de esta última temporada. Nuevas ideas y cosas que han cambiado en estos últimos meses. Si sólo puedes escuchar un capítulo que sea este #ConsideredHarmful.
-            </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>15</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Resumen temporada</itunes:title>
-        </item>
-        <item>
-            <title>Sorpresa</title>
-            <link>https://archive.org/details/caja_sorpresa</link>
-            <description><![CDATA[Episodio sorpresa. En el penúltimo episodio de la temporada Mauro elige la caja sorpresa. A pesar de eso creo que nos ha quedado un buen programa, juzga tu misma #ConsideredHarmful.
+			<link>https://anchor.fm/consideredharmful/episodes/Medir-la-salud-del-equipo-considered-harmful-e1unnq7</link>
+			<guid isPermaLink="false">8DD278DC-09B5-5CDF-B2CF-554DD6AD111B</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 06 Feb 2023 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971878-48000-1-7e81c6278bf00831.mp3" length="27000961" type="audio/mpeg"/>
+			<itunes:summary>¿Cómo medir la salud del equipo? ¿Qué modos hay? ¿Sirve para algo? ¿Por qué lo hacemos? Estas son algunas de las preguntas que intentamos contestar a lo largo de este nuevo episodio.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Tech leads considered harmful]]></title>
+			<description><![CDATA[Smell, necesarios o inevitables? Hablamos de nuestra experiencia ejerciendo este rol, de lo que nos ha funcionado, lo que no y como evitarlos a toda costa.
 ]]></description>
-            <pubDate>Thu, 02 Jun 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/caja_sorpresa/caja_sorpresa.mp3" length="21639725" type="audio/mpeg"/>
-            <guid isPermaLink="false">8FF378DC-14A6-5CDF-B2CF-888C15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Episodio sorpresa. En el penúltimo episodio de la temporada Mauro elige la caja sorpresa. A pesar de eso creo que nos ha quedado un buen programa, juzga tu misma #ConsideredHarmful.
-            </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>14</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Sorpresa</itunes:title>
-        </item>
-        <item>
-            <title>Feature Flags</title>
-            <link>https://archive.org/details/feature_flags</link>
-            <description><![CDATA[Feature Flags, ¿qué son? ¿Cómo las usamos? ¿Cuál es su relación con parallel change? Errores comunes. Te damos la visión de #ConsideredHarmful]]></description>
-            <pubDate>Thu, 26 May 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/feature_flags/feature_flags.mp3" length="22244722" type="audio/mpeg"/>
-            <guid isPermaLink="false">8FF378DC-14A6-5CDF-B2CF-866E15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Feature Flags, ¿qué son? ¿Cómo las usamos? ¿Cuál es su relación con parallel change? Errores comunes. Te damos la visión de #ConsideredHarmful
-            </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>13</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Feature Flags</itunes:title>
-        </item>
-        <item>
-            <title>Pair programming</title>
-            <link>https://archive.org/details/pairprogramming</link>
-            <description><![CDATA[Volvemos a la carga con pair programming. Buenas y malas prácticas salpicadas de anécdotas personales y alguna que otra risa. #ConsideredHarmful]]></description>
-            <pubDate>Thu, 12 May 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia902507.us.archive.org/27/items/pairprogramming/pairprogramming.mp3" length="26342637" type="audio/mpeg"/>
-            <guid isPermaLink="false">8FF344DB-14A6-5CDF-B2CF-866E15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Volvemos a la carga con pair programming. Buenas y malas prácticas salpicadas de anécdotas personales y alguna que otra risa. #ConsideredHarmful
-            </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>12</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Pair programming</itunes:title>
-        </item>
-        <item>
-            <title>Arquitectura evolutiva</title>
-            <link>https://archive.org/details/arquitectura_evolutiva</link>
-            <description><![CDATA[Comentamos el libro Building Evolutionary Architectures. Fitness functions, facilitar el cambio, desplegar código, construir código y mucho más. #ConsideredHarmful]]></description>
-            <pubDate>Thu, 05 May 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601502.us.archive.org/26/items/arquitectura_evolutiva/arquitectura_evolutiva.mp3" length="21492637" type="audio/mpeg"/>
-            <guid isPermaLink="false">8FF344DB-14A6-5CDF-B2CF-899E15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Comentamos el libro Building Evolutionary Architectures. Fitness functions, facilitar el cambio, desplegar código, construir código y mucho más. #ConsideredHarmful
-            </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>11</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Arquitectura evolutiva</itunes:title>
-        </item>
-        <item>
-            <title>Lecciones aprendidas</title>
-            <link>https://archive.org/details/errores_202204</link>
-            <description><![CDATA[Algunos errores que hemos cometido visto en retrospectiva y qué haríamos a día de hoy. No te lo puedes perder #ConsideredHarmful]]></description>
-            <pubDate>Fri, 29 Apr 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601408.us.archive.org/6/items/errores_202204/errores.mp3" length="26479419" type="audio/mpeg"/>
-            <guid isPermaLink="false">8CC344DB-14A6-5CDF-B2CF-899E15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Algunos errores que hemos cometido visto en retrospectiva y qué haríamos a día de hoy. No te lo puedes perder #ConsideredHarmful
-            </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>10</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Lecciones aprendidas</itunes:title>
-        </item>
-        <item>
-            <title>Agente del cambio</title>
-            <link>https://archive.org/details/agente_del_cambio</link>
-            <description><![CDATA[¿Cual es la promesa de agile? Has intentado convertir tu empresa en una empresa agile? ¿Qué lecciones has aprendido? ¿Por dónde empezar? Esto y mucho más en este nuevo capítulo de #ConsideredHarmful]]></description>
-            <pubDate>Thu, 31 Mar 2022 19:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601506.us.archive.org/21/items/agente_del_cambio/agente_del_cambio.mp3" length="33180907" type="audio/mpeg"/>
-            <guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-899E15AD356A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¿Cual es la promesa de agile? Has intentado convertir tu empresa en una empresa agile? ¿Qué lecciones has aprendido? ¿Por dónde empezar? Esto y mucho más en este nuevo capítulo de #ConsideredHarmful
+			<link>https://anchor.fm/consideredharmful/episodes/Tech-leads-considered-harmful-e1unnql</link>
+			<guid isPermaLink="false">8DD278DC-09B5-5CDF-B2CF-554DD6AD222A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 30 Jan 2023 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971903-48000-1-a90de2f4bec2c303.mp3" length="17196701" type="audio/mpeg"/>
+			<itunes:summary>Smell, necesarios o inevitables? Hablamos de nuestra experiencia ejerciendo este rol, de lo que nos ha funcionado, lo que no y como evitarlos a toda costa.
 </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>9</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Agente del cambio</itunes:title>
-        </item>
-        <item>
-            <title>Programación reactiva</title>
-            <link>https://archive.org/details/reactiva_202203</link>
-            <description><![CDATA[¿Qué es la programación reactiva? ¿Es React realmente reactivo? ¿Realmente importa? Las respuestas a todas tus preguntas en #ConsideredHarmful]]></description>
-            <pubDate>Thu, 24 Mar 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601408.us.archive.org/31/items/reactiva_202203/reactiva.mp3" length="29300299" type="audio/mpeg"/>
-            <guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-899E15AD134A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¿Qué es la programación reactiva? ¿Es React realmente reactivo? ¿Realmente importa? Las respuestas a todas tus preguntas en #ConsideredHarmful
-</itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>8</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Programación reactiva</itunes:title>
-        </item>
-        <item>
-            <title>¡practica!</title>
-            <link>https://archive.org/details/practica_202203</link>
-            <description><![CDATA[¡practica! Lo que ya sabes, lo que sabes que no sabes y lo que no sabes que no sabes.
- #ConsideredHarmful]]></description>
-            <pubDate>Thu, 17 Mar 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601408.us.archive.org/8/items/practica_202203/practica.mp3" length="22644762" type="audio/mpeg"/>
-            <guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-888E15AD134A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¡practica! Lo que ya sabes, lo que sabes que no sabes y lo que no sabes que no sabes.
-</itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>7</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>¡practica!</itunes:title>
-        </item>
-        <item>
-            <title>Ingeniería de software II</title>
-            <link>https://archive.org/details/ingenieria_de_software_dos</link>
-            <description><![CDATA[Si queremos ser ingenieros debemos ser expertos en aprender. Desarrollo iterativo e incremental y feedback como herramientas fundamentales. #ConsideredHarmful]]></description>
-            <pubDate>Thu, 10 Mar 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801403.us.archive.org/23/items/ingenieria_de_software_dos/ingenieria_de_software_dos.mp3" length="22021161" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-888E15AD134A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Si queremos ser ingenieros debemos ser expertos en aprender. Desarrollo iterativo e incremental y feedback como herramientas fundamentales. #ConsideredHarmful</itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>6</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Ingeniería de software II</itunes:title>
-        </item>
-        <item>
-            <title>Ingeniería de software</title>
-            <link>https://archive.org/details/ingenieria_de_software</link>
-            <description><![CDATA[¿Es el desarrollo del software una ingeniería? ¿Podemos aplicar el método científico? ¿Hay métricas más allá de contar lineas? esto y más en el último episodio de #ConsideredHarmful]]></description>
-            <pubDate>Thu, 24 Feb 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601404.us.archive.org/1/items/ingenieria_de_software/ingenieria_de_software.mp3" length="22094223" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-777E15AD134A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¿Es el desarrollo del software una ingeniería? ¿Podemos aplicar el método científico? ¿Hay métricas más allá de contar lineas? esto y más en el último episodio de #ConsideredHarmful</itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>5</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Ingeniería de software</itunes:title>
-        </item>
-        <item>
-            <title>Estrategia de testing</title>
-            <link>https://archive.org/details/estrategia_de_testing</link>
-            <description><![CDATA[Trofeo, pirámide o diamante de testing? Test unitario o integración? TDD en #ConsideredHarmful]]></description>
-            <pubDate>Thu, 17 Feb 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601503.us.archive.org/18/items/estrategia_de_testing/estrategia_de_testing.mp3" length="21107111" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-777E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Trofeo, pirámide o diamante de testing? Test unitario o integración? TDD en #ConsideredHarmful</itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>4</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Estrategia de testing</itunes:title>
-        </item>
-        <item>
-            <title>Arquitectura front</title>
-            <link>https://archive.org/details/arquitectura_front</link>
-            <description><![CDATA[¿Qué debe tener una arquitectura front para que Mauro la considere buena?
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:25:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Algunos tipos de programadores considered harmful.]]></title>
+			<description><![CDATA[Nos inventamos una taxonomía de los malos tipos de programadores con los que nos hemos encontrado y los skills que creemos que les faltaban. Después de la broma terminamos hablando de makers y menders. ¿Qué tipo eres tú?
 ]]></description>
-            <pubDate>Thu, 10 Feb 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801402.us.archive.org/13/items/arquitectura_front/arquitectura_front.mp3" length="29906642" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AC443DB-14A6-5CDF-B2CF-777E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>¿Qué debe tener una arquitectura front para que Mauro la considere buena?
+			<link>https://anchor.fm/consideredharmful/episodes/Algunos-tipos-de-programadores-considered-harmful-e1unnra</link>
+			<guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD222A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 23 Jan 2023 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971967-48000-1-701f40004227875c.mp3" length="26632705" type="audio/mpeg"/>
+			<itunes:summary>Nos inventamos una taxonomía de los malos tipos de programadores con los que nos hemos encontrado y los skills que creemos que les faltaban. Después de la broma terminamos hablando de makers y menders. ¿Qué tipo eres tú?
 </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>3</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Arquitectura front</itunes:title>
-        </item>
-        <item>
-            <title>La mente del programador</title>
-            <link>https://archive.org/details/the-programmers-brain</link>
-            <description><![CDATA[Comentamos los dos primeros dos capítulos de The Programmer's Brain.
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:37:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Oficina]]></title>
+			<description><![CDATA[Muchas empresas están llamando a volver a la oficina a sus empleados. ¿Qué está pasando? ¿No sabemos trabajar en remoto? ¿No queremos? Compartimos nuestras experiencias y discutimos argumentos a favor y en contra.
 ]]></description>
-            <pubDate>Thu, 27 Jan 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801505.us.archive.org/18/items/the-programmers-brain/the%20programmers%20brain.mp3" length="15303569" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AD553DB-14A6-5CDF-B2CF-777E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Comentamos los dos primeros dos capítulos de The Programmer's Brain.
+			<link>https://anchor.fm/consideredharmful/episodes/Oficina-e1unnpi</link>
+			<guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD111A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 19 Dec 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971849-48000-1-6b338d2155aaaff0.mp3" length="24474460" type="audio/mpeg"/>
+			<itunes:summary>Muchas empresas están llamando a volver a la oficina a sus empleados. ¿Qué está pasando? ¿No sabemos trabajar en remoto? ¿No queremos? Compartimos nuestras experiencias y discutimos argumentos a favor y en contra.
 </itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>2</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>La mente del programador</itunes:title>
-        </item>
-        <item>
-            <title>Salarios</title>
-            <link>https://archive.org/details/salarios</link>
-            <description><![CDATA[Le damos una pensada a la industria sus salarios y divagamos un poco sobre el futuro.]]></description>
-            <pubDate>Thu, 20 Jan 2022 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601407.us.archive.org/28/items/salarios/salarios.mp3" length="14049778" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AD553DB-14A6-5CDF-B1DF-777E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Le damos una pensada a la industria sus salarios y divagamos un poco sobre el futuro.</itunes:summary>
-            <itunes:season>3</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Salarios</itunes:title>
-        </item>
-        <item>
-            <title>Retro 2021</title>
-            <link>https://archive.org/details/retro_2021</link>
-            <description><![CDATA[Hacemos retrospectiva del año 2021 y hablamos del futuro del podcast y de nuestros intereses.]]></description>
-            <pubDate>Thu, 16 Dec 2021 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601502.us.archive.org/0/items/retro_2021/retro_2021.mp3" length="23632684" type="audio/mpeg"/>
-            <guid isPermaLink="false">9BC553DB-14A6-5CDF-B1DF-777E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:summary>Hacemos retrospectiva del año 2021 y hablamos del futuro del podcast y de nuestros intereses.</itunes:summary>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>10</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Retro 2021</itunes:title>
-        </item>
-        <item>
-            <title>Deuda técnica</title>
-            <link>https://archive.org/details/deuda-tecnica</link>
-            <description><![CDATA[Hablamos sobre distintos tipos de código y cómo mantenerlos controlados :)]]></description>
-            <pubDate>Tue, 30 Nov 2021 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801501.us.archive.org/5/items/deuda-tecnica/Deuda%20tecnica.mp3" length="21982581" type="audio/mpeg"/>
-            <guid isPermaLink="false">9BC783DB-14A6-5CDF-B1DF-777E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>9</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Deuda técnica</itunes:title>
-        </item>
-        <item>
-            <title>Entrega tan rápido como puedas</title>
-            <link>https://archive.org/details/entrega-tan-rapido-como-puedas</link>
-            <description><![CDATA[Hablamos sobre kanban, entrega de valor, equipos auto organizados y en general como entregar tan rápido como sea posible.]]></description>
-            <pubDate>Fri, 19 Nov 2021 18:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601506.us.archive.org/6/items/entrega-tan-rapido-como-puedas/Entrega%20tan%20rapido%20como%20puedas.mp3" length="17947056" type="audio/mpeg"/>
-            <guid isPermaLink="false">9BC693DB-14A6-5CDF-B1DF-777E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>8</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Entrega tan rápido como puedas</itunes:title>
-        </item>
-        <item>
-            <title>Programación asíncrona</title>
-            <link>https://archive.org/details/asynchronous-programming</link>
-            <description><![CDATA[Hablamos sobre concurrencia y paralelismo y cómo JS nos ayuda a conseguirlo.]]></description>
-            <pubDate>Thu, 11 Nov 2021 16:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601404.us.archive.org/19/items/asynchronous-programming/asynchronous%20programming.mp3" length="19359827" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-777E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>7</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Programación asíncrona</itunes:title>
-        </item>
-        <item>
-            <title>Decide lo más tarde posible</title>
-            <link>https://archive.org/details/delay-decisions</link>
-            <description><![CDATA[Último momento responsable o procrastinación? Intentamos arrojar algo de luz a este tema.]]></description>
-            <pubDate>Thu, 04 Nov 2021 16:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601409.us.archive.org/35/items/delay-decisions/delay%20decisions.mp3" length="15306822" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-666E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>6</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Decide lo más tarde posible</itunes:title>
-        </item>
-        <item>
-            <title>SOLID is not solid</title>
-            <link>https://archive.org/details/solid_is_not_solid</link>
-            <description><![CDATA[Hacemos una crítica del libro SOLID is not solid, hablamos de CUPID y algo más.]]></description>
-            <pubDate>Thu, 28 Oct 2021 17:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601403.us.archive.org/35/items/solid_is_not_solid/solid_is_not_solid.mp3" length="24864025" type="audio/mpeg"/>
-            <guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-685E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>5</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>SOLID is not solid</itunes:title>
-        </item>
-        <item>
-            <title>Es waste?</title>
-            <link>https://archive.org/details/is-it-waste</link>
-            <description><![CDATA[Decidimos que prácticas son waste y cuales no.]]></description>
-            <pubDate>Thu, 21 Oct 2021 21:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/is-it-waste/is%20it%20waste.mp3" length="23865159" type="audio/mpeg"/>
-            <guid isPermaLink="false">7AF693DB-14A6-5CDF-B1CF-685E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>4</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Es waste?</itunes:title>
-        </item>
-        <item>
-            <title>Pair programming</title>
-            <link>https://archive.org/details/mob_20211017</link>
-            <description><![CDATA[Hablamos sobre pair programming y lo comparamos con mob programming.]]></description>
-            <pubDate>Sun, 17 Oct 2021 21:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601508.us.archive.org/1/items/mob_20211017/mob.mp3" length="17424830" type="audio/mpeg"/>
-            <guid isPermaLink="false">7AF693DB-14A6-4CDF-B1CF-685E15AB034A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>3</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Pair programming</itunes:title>
-        </item>
-        <item>
-            <title>Waste</title>
-            <link>https://archive.org/details/waste_202110</link>
-            <description><![CDATA[Qué es waste? Tipos comunes y nuestra experiencia encontrándolo.]]></description>
-            <pubDate>Sat, 09 Oct 2021 21:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia801401.us.archive.org/22/items/waste_202110/waste.mp3" length="23118746" type="audio/mpeg"/>
-            <guid isPermaLink="false">7AF693DB-14A6-4CDF-B1CF-685E15AB084A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>2</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Waste</itunes:title>
-        </item>
-        <item>
-            <title>Origen</title>
-            <link>https://link.chtbl.com/1_C1YbuO</link>
-            <description><![CDATA[Cómo has llegado hasta aquí?]]></description>
-            <pubDate>Mon, 20 Sep 2021 21:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://ia601507.us.archive.org/22/items/origen_202109/origen.mp3" length="12435473" type="audio/mpeg"/>
-            <guid isPermaLink="false">7AF692DB-14A6-4CDF-B1CF-685E15AB084A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>2</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Origen</itunes:title>
-        </item>
-        <item>
-            <title>Es un código con tests un código mejor?</title>
-            <link>https://archive.org/details/es-un-codigo-con-tests-es-un-codigo-mejor</link>
-            <description><![CDATA[Intentamos contestar esta pregunta recurrente Es un código con tests un código mejor?]]></description>
-            <pubDate>Mon, 10 May 2021 21:20:37 +0200</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/es-un-codigo-con-tests-es-un-codigo-mejor/tdd-worthy.mp3" length="26936259" type="audio/mpeg"/>
-            <guid isPermaLink="false">207e9347-be78-4967-b4e0-a5ed0f17eff7</guid>
-            <itunes:author>Mauro, Iago y David</itunes:author>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>5</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Es un código con tests un código mejor?</itunes:title>
-        </item>
-        <item>
-            <title>Legacy code</title>
-            <link>https://archive.org/details/legacy-code</link>
-            <description><![CDATA[Mauro y David hablan sobre su experiencia trabajando con legacy code.]]></description>
-            <pubDate>Fri, 12 Mar 2021 20:07:16 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/legacy-code/davidvm%20%26%20moualv.mp3" length="80790032" type="audio/mpeg"/>
-            <guid isPermaLink="false">3d559e73-e48f-4a73-87bf-0e8d0e48f575</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>4</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Legacy code</itunes:title>
-        </item>
-        <item>
-            <title>DDD y NOSQL</title>
-            <link>https://archive.org/details/ddd_y_nosql</link>
-            <description><![CDATA[Mauro y David hablan sobre bases de datos y cual puede encajar mejor en una arquitectura que sigue los patrones DDD.]]></description>
-            <pubDate>Fri, 05 Mar 2021 20:07:16 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/ddd_y_nosql/davidvm%20%26%20moualv.mp3" length="56741423" type="audio/mpeg"/>
-            <guid isPermaLink="false">1BC99BA7-1CE8-4A3F-A9DB-8008C63261D5</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>3</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>DDD y NOSQL</itunes:title>
-        </item>
-        <item>
-            <title>Hablando sobre APIs</title>
-            <link>https://archive.org/details/davidvm-moualv</link>
-            <description><![CDATA[Mauro y David hablan largo y tendido sobre APIs, opiniones, experiencias y unas risas.]]></description>
-            <pubDate>Fri, 26 Feb 2021 21:13:45 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/davidvm-moualv/davidvm%20%26%20moualv.mp3" length="63834100" type="audio/mpeg"/>
-            <guid isPermaLink="false">51E12072-D0DF-4F5F-A004-A041FDC32C0E</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>2</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Hablando sobre APIs</itunes:title>
-        </item>
-        <item>
-            <title>Respuestas a preguntas técnicas</title>
-            <link>https://archive.org/details/tca_20210219</link>
-            <description><![CDATA[Mauro y David plantean algunas preguntas que suelen salir en entrevistas y tratan de contestarlas.]]></description>
-            <pubDate>Fri, 19 Feb 2021 20:20:37 +0100</pubDate>
-            <enclosure url="https://chrt.fm/track/BAAC66/https://archive.org/download/tca_20210219/davidvm%20%26%20moualv.mp3" length="56741423" type="audio/mpeg"/>
-            <guid isPermaLink="false">7AF692DB-14A6-4CDF-B0CF-685E15AB084A</guid>
-            <itunes:author>Mauro y David</itunes:author>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Respuestas a preguntas técnicas</itunes:title>
-        </item>
-    </channel>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:30:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Programador E2E]]></title>
+			<description><![CDATA[En este capítulo nos apetecía comentar esta newsletter de Javi Santana https://javisantana.substack.com/p/a-la-segunda-todo-sale-bien-el-end. Le sacamos un poco de punta y discrepamos en el fondo del artículo, ¿quién tiene razón? Probablemente ninguno.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Programador-E2E-e1unnp6</link>
+			<guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD777C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 12 Dec 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971836-48000-1-2cf1508c79ab2f96.mp3" length="18119965" type="audio/mpeg"/>
+			<itunes:summary>En este capítulo nos apetecía comentar esta newsletter de Javi Santana https://javisantana.substack.com/p/a-la-segunda-todo-sale-bien-el-end. Le sacamos un poco de punta y discrepamos en el fondo del artículo, ¿quién tiene razón? Probablemente ninguno.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:22:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Objetivos]]></title>
+			<description><![CDATA[Llega ese momento del año en el que tenemos que echar la vista atrás para ver que hemos hecho y que queremos hacer. Hablamos de objetivos, de nuestra experiencia y os damos nuestra, como siempre, desinformada opinión. #ConsideredHarmful Escucha el último episodio https://link.chtbl.com/f7fraYBW Comenta tu opinión en nuestra comunidad https://t.me/consideredharmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Objetivos-e1unnr5</link>
+			<guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-987DD6AD777C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 05 Dec 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971942-48000-1-87f437d8e61824a4.mp3" length="22385565" type="audio/mpeg"/>
+			<itunes:summary>Llega ese momento del año en el que tenemos que echar la vista atrás para ver que hemos hecho y que queremos hacer. Hablamos de objetivos, de nuestra experiencia y os damos nuestra, como siempre, desinformada opinión. #ConsideredHarmful Escucha el último episodio https://link.chtbl.com/f7fraYBW Comenta tu opinión en nuestra comunidad https://t.me/consideredharmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:30:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Incentivos]]></title>
+			<description><![CDATA[Deuda técnica e incentivos, ¿existe alguna relación? ¿Podemos usar los incentivos para dirigir el comportamiento del equipo? ¿Será que David ya está muy mayor? #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Incentivos-e1unnp8</link>
+			<guid isPermaLink="false">5FF278DC-14B5-5CDF-B2CF-987DD6AD777C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 28 Nov 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971842-48000-1-66bcdb396b7be1a2.mp3" length="15860377" type="audio/mpeg"/>
+			<itunes:summary>Deuda técnica e incentivos, ¿existe alguna relación? ¿Podemos usar los incentivos para dirigir el comportamiento del equipo? ¿Será que David ya está muy mayor? #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:20:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Lo del Twitter]]></title>
+			<description><![CDATA[¡Vuelven los cuñados! Hablamos sobre nuestra impresión de lo que está pasando en Twitter y cómo afecta al mercado para terminar hablando de empresas locales y de la industria gallega. Uno de esos episodios que no te puedes perder si quieres echarte unas risas.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Lo-del-Twitter-e1unnqr</link>
+			<guid isPermaLink="false">5FF278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 21 Nov 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971922-48000-1-637d52f62ae63b7c.mp3" length="19651014" type="audio/mpeg"/>
+			<itunes:summary>¡Vuelven los cuñados! Hablamos sobre nuestra impresión de lo que está pasando en Twitter y cómo afecta al mercado para terminar hablando de empresas locales y de la industria gallega. Uno de esos episodios que no te puedes perder si quieres echarte unas risas.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Spikes]]></title>
+			<description><![CDATA[Hablamos de una de nuestras herramientas favoritas. ¿Qué son? ¿Para qué sirven? ¿Cómo las usamos? Corto y al pie! #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Spikes-e1unnpl</link>
+			<guid isPermaLink="false">9AA278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 14 Nov 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971858-48000-1-235775965b495329.mp3" length="15841922" type="audio/mpeg"/>
+			<itunes:summary>Hablamos de una de nuestras herramientas favoritas. ¿Qué son? ¿Para qué sirven? ¿Cómo las usamos? Corto y al pie! #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:21:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Managers]]></title>
+			<description><![CDATA[Animal mitológico, rol innecesario o parte fundamental de un equipo de producto? Hablamos sobre las atribuciones que suele tener un manager y si se puede vivir sin ellos. #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Managers-e1unnpv</link>
+			<guid isPermaLink="false">9FF278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 07 Nov 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971859-48000-2-b267d3dd716e03a9.mp3" length="26641175" type="audio/mpeg"/>
+			<itunes:summary>Animal mitológico, rol innecesario o parte fundamental de un equipo de producto? Hablamos sobre las atribuciones que suele tener un manager y si se puede vivir sin ellos. #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Mentoría en vivo 1]]></title>
+			<description><![CDATA[Teníamos ganas de ponernos al día, hablar de cómo nos sentimos y que nos preocupa, cuáles son nuestras inquietudes y donde invertimos nuestro tiempo. Y pensamos, ¿qué mejor que una mentoría? ¿por qué no grabarla? Nos ha gustado la experiencia así que probablemente esta sea la primera de muchas. Esperamos que también os guste. #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Mentora-en-vivo-1-e1unnqc</link>
+			<guid isPermaLink="false">9FF278DC-14B5-5CDF-B2CF-987C15AD357C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 23 Oct 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971889-48000-1-25db18be8f8690c8.mp3" length="22353673" type="audio/mpeg"/>
+			<itunes:summary>Teníamos ganas de ponernos al día, hablar de cómo nos sentimos y que nos preocupa, cuáles son nuestras inquietudes y donde invertimos nuestro tiempo. Y pensamos, ¿qué mejor que una mentoría? ¿por qué no grabarla? Nos ha gustado la experiencia así que probablemente esta sea la primera de muchas. Esperamos que también os guste. #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:30:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Local first]]></title>
+			<description><![CDATA[¿Te imaginas un mundo en el que la web renderiza 60 veces en un segundo, las UIs son fluidas y tus datos son solo tuyos? Estos son algunos de los objetivos de las aplicaciones local-first. En este episodio charlamos sobre ello. #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Local-first-e1unnpo</link>
+			<guid isPermaLink="false">9DD178DC-14B5-5CDF-B2CF-987C15AD357C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 16 Oct 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789752/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971860-48000-1-95c573343be2b7a6.mp3" length="17248105" type="audio/mpeg"/>
+			<itunes:summary>¿Te imaginas un mundo en el que la web renderiza 60 veces en un segundo, las UIs son fluidas y tus datos son solo tuyos? Estos son algunos de los objetivos de las aplicaciones local-first. En este episodio charlamos sobre ello. #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:22:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Bootcamps]]></title>
+			<description><![CDATA[¿Sí o no a los bootcamps? ¿Qué tienen de bueno? ¿Qué echamos en falta? Si te interesa la opinión de dos personas que no han hecho un bootcamp, no te puedes perder este episodio :) #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Bootcamps-e1unnr1</link>
+			<guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-987C15AD357C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 10 Oct 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971939-48000-1-ebce4e1cb1db4782.mp3" length="23849912" type="audio/mpeg"/>
+			<itunes:summary>¿Sí o no a los bootcamps? ¿Qué tienen de bueno? ¿Qué echamos en falta? Si te interesa la opinión de dos personas que no han hecho un bootcamp, no te puedes perder este episodio :) #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:33:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Seniority]]></title>
+			<description><![CDATA[En este capítulo analizamos al desarrollador senior, como medimos la senority, como afecta a nuestro salario, discutimos si es un modelo justo o no y mucho más. Vente a echarte unas risas con #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Seniority-e1unnqg</link>
+			<guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-777C15AD357C</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 03 Oct 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971894-48000-1-986b148e98e2fc7b.mp3" length="28247231" type="audio/mpeg"/>
+			<itunes:summary>En este capítulo analizamos al desarrollador senior, como medimos la senority, como afecta a nuestro salario, discutimos si es un modelo justo o no y mucho más. Vente a echarte unas risas con #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:38:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Estructuras organizativas]]></title>
+			<description><![CDATA[¿Cómo afecta la estructura de tu equipo a tus diseños y arquitectura? ¿Qué elementos influyen en la comunicación de tu equipo? ¿Cuando un equipo es demasiado grande? Estas y otras cuestiones en el segundo episodio de la cuarta temporada de #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Estructuras-organizativas-e1unnqb</link>
+			<guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-777C15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 26 Sep 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971880-48000-1-8c950f3a388778d2.mp3" length="29893812" type="audio/mpeg"/>
+			<itunes:summary>¿Cómo afecta la estructura de tu equipo a tus diseños y arquitectura? ¿Qué elementos influyen en la comunicación de tu equipo? ¿Cuando un equipo es demasiado grande? Estas y otras cuestiones en el segundo episodio de la cuarta temporada de #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:39:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Arquitectura y mantenibilidad]]></title>
+			<description><![CDATA[Hablamos sobre arquitectura y mantenibilidad. ¿Afecta la arquitectura a lo mantenible que sea nuestro proyecto? ¿Hay arquitecturas más sostenibles que otras? Estas y otras preguntas en el primer episodio de la cuarta temporada de #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Arquitectura-y-mantenibilidad-e1unnqe</link>
+			<guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-888C15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 19 Sep 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971864-48000-1-629a021406029bdc.mp3" length="21943670" type="audio/mpeg"/>
+			<itunes:summary>Hablamos sobre arquitectura y mantenibilidad. ¿Afecta la arquitectura a lo mantenible que sea nuestro proyecto? ¿Hay arquitecturas más sostenibles que otras? Estas y otras preguntas en el primer episodio de la cuarta temporada de #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Resumen temporada]]></title>
+			<description><![CDATA[Echamos un vistazo a todos los capítulos de esta última temporada. Nuevas ideas y cosas que han cambiado en estos últimos meses. Si sólo puedes escuchar un capítulo que sea este #ConsideredHarmful.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Resumen-temporada-e1unnpf</link>
+			<guid isPermaLink="false">8CC178DC-14A6-5CDF-B2CF-888C15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 09 Jun 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971844-48000-1-739359b0616c8615.mp3" length="24283694" type="audio/mpeg"/>
+			<itunes:summary>Echamos un vistazo a todos los capítulos de esta última temporada. Nuevas ideas y cosas que han cambiado en estos últimos meses. Si sólo puedes escuchar un capítulo que sea este #ConsideredHarmful.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Sorpresa]]></title>
+			<description><![CDATA[Episodio sorpresa. En el penúltimo episodio de la temporada Mauro elige la caja sorpresa. A pesar de eso creo que nos ha quedado un buen programa, juzga tu misma #ConsideredHarmful.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Sorpresa-e1unnq0</link>
+			<guid isPermaLink="false">8FF378DC-14A6-5CDF-B2CF-888C15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 02 Jun 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971867-48000-1-12359f89b53a443c.mp3" length="21639725" type="audio/mpeg"/>
+			<itunes:summary>Episodio sorpresa. En el penúltimo episodio de la temporada Mauro elige la caja sorpresa. A pesar de eso creo que nos ha quedado un buen programa, juzga tu misma #ConsideredHarmful.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Feature Flags]]></title>
+			<description><![CDATA[Feature Flags, ¿qué son? ¿Cómo las usamos? ¿Cuál es su relación con parallel change? Errores comunes. Te damos la visión de #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Feature-Flags-e1unnqn</link>
+			<guid isPermaLink="false">8FF378DC-14A6-5CDF-B2CF-866E15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 26 May 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971906-48000-1-86f44201656f8045.mp3" length="22244722" type="audio/mpeg"/>
+			<itunes:summary>Feature Flags, ¿qué son? ¿Cómo las usamos? ¿Cuál es su relación con parallel change? Errores comunes. Te damos la visión de #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Pair programming]]></title>
+			<description><![CDATA[Volvemos a la carga con pair programming. Buenas y malas prácticas salpicadas de anécdotas personales y alguna que otra risa. #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Pair-programming-e1unnpc</link>
+			<guid isPermaLink="false">8FF344DB-14A6-5CDF-B2CF-866E15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 12 May 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971838-48000-1-5d8bc300b20fcb17.mp3" length="26342637" type="audio/mpeg"/>
+			<itunes:summary>Volvemos a la carga con pair programming. Buenas y malas prácticas salpicadas de anécdotas personales y alguna que otra risa. #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:35:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Arquitectura evolutiva]]></title>
+			<description><![CDATA[Comentamos el libro Building Evolutionary Architectures. Fitness functions, facilitar el cambio, desplegar código, construir código y mucho más. #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Arquitectura-evolutiva-e1unnpd</link>
+			<guid isPermaLink="false">8FF344DB-14A6-5CDF-B2CF-899E15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 05 May 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789741/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971845-48000-1-8c1670ee01525796.mp3" length="21492637" type="audio/mpeg"/>
+			<itunes:summary>Comentamos el libro Building Evolutionary Architectures. Fitness functions, facilitar el cambio, desplegar código, construir código y mucho más. #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Lecciones aprendidas]]></title>
+			<description><![CDATA[Algunos errores que hemos cometido visto en retrospectiva y qué haríamos a día de hoy. No te lo puedes perder #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Lecciones-aprendidas-e1unnpk</link>
+			<guid isPermaLink="false">8CC344DB-14A6-5CDF-B2CF-899E15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Fri, 29 Apr 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971848-48000-1-31206e1a5e1587ab.mp3" length="26479419" type="audio/mpeg"/>
+			<itunes:summary>Algunos errores que hemos cometido visto en retrospectiva y qué haríamos a día de hoy. No te lo puedes perder #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:35:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Agente del cambio]]></title>
+			<description><![CDATA[¿Cual es la promesa de agile? Has intentado convertir tu empresa en una empresa agile? ¿Qué lecciones has aprendido? ¿Por dónde empezar? Esto y mucho más en este nuevo capítulo de #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Agente-del-cambio-e1unnq1</link>
+			<guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-899E15AD356A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 31 Mar 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789761/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971855-48000-1-e00cf29eacc64827.mp3" length="33180907" type="audio/mpeg"/>
+			<itunes:summary>¿Cual es la promesa de agile? Has intentado convertir tu empresa en una empresa agile? ¿Qué lecciones has aprendido? ¿Por dónde empezar? Esto y mucho más en este nuevo capítulo de #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:44:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Programación reactiva]]></title>
+			<description><![CDATA[¿Qué es la programación reactiva? ¿Es React realmente reactivo? ¿Realmente importa? Las respuestas a todas tus preguntas en #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Programacin-reactiva-e1unnq8</link>
+			<guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-899E15AD134A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 24 Mar 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971876-48000-1-1db69b7cdd8ab1a0.mp3" length="29300299" type="audio/mpeg"/>
+			<itunes:summary>¿Qué es la programación reactiva? ¿Es React realmente reactivo? ¿Realmente importa? Las respuestas a todas tus preguntas en #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:41:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[¡practica!]]></title>
+			<description><![CDATA[¡practica! Lo que ya sabes, lo que sabes que no sabes y lo que no sabes que no sabes.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/practica-e1unnpq</link>
+			<guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-888E15AD134A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 17 Mar 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971856-48000-1-286c4ecaffd1761b.mp3" length="22644762" type="audio/mpeg"/>
+			<itunes:summary>¡practica! Lo que ya sabes, lo que sabes que no sabes y lo que no sabes que no sabes.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:30:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Ingeniería de software II]]></title>
+			<description><![CDATA[Si queremos ser ingenieros debemos ser expertos en aprender. Desarrollo iterativo e incremental y feedback como herramientas fundamentales. #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Ingeniera-de-software-II-e1unnp9</link>
+			<guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-888E15AD134A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 10 Mar 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971839-48000-1-38a83543afe00541.mp3" length="22021161" type="audio/mpeg"/>
+			<itunes:summary>Si queremos ser ingenieros debemos ser expertos en aprender. Desarrollo iterativo e incremental y feedback como herramientas fundamentales. #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Ingeniería de software]]></title>
+			<description><![CDATA[¿Es el desarrollo del software una ingeniería? ¿Podemos aplicar el método científico? ¿Hay métricas más allá de contar lineas? esto y más en el último episodio de #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Ingeniera-de-software-e1unnpa</link>
+			<guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-777E15AD134A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 24 Feb 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971841-48000-1-e19a5d5d37006fbf.mp3" length="22094223" type="audio/mpeg"/>
+			<itunes:summary>¿Es el desarrollo del software una ingeniería? ¿Podemos aplicar el método científico? ¿Hay métricas más allá de contar lineas? esto y más en el último episodio de #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Estrategia de testing]]></title>
+			<description><![CDATA[Trofeo, pirámide o diamante de testing? Test unitario o integración? TDD en #ConsideredHarmful
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Estrategia-de-testing-e1unnq4</link>
+			<guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-777E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 17 Feb 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971875-48000-1-0c6a3210fb13426c.mp3" length="21107111" type="audio/mpeg"/>
+			<itunes:summary>Trofeo, pirámide o diamante de testing? Test unitario o integración? TDD en #ConsideredHarmful
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:30:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Arquitectura front]]></title>
+			<description><![CDATA[¿Qué debe tener una arquitectura front para que Mauro la considere buena?
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Arquitectura-front-e1unnpu</link>
+			<guid isPermaLink="false">8AC443DB-14A6-5CDF-B2CF-777E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 10 Feb 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971854-48000-1-192ccff9da236f92.mp3" length="29906642" type="audio/mpeg"/>
+			<itunes:summary>¿Qué debe tener una arquitectura front para que Mauro la considere buena?
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:40:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[La mente del programador]]></title>
+			<description><![CDATA[Comentamos los dos primeros dos capítulos de The Programmer's Brain.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/La-mente-del-programador-e1unnqa</link>
+			<guid isPermaLink="false">8AD553DB-14A6-5CDF-B2CF-777E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 27 Jan 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971887-48000-1-c2a0190c718bfa25.mp3" length="15303569" type="audio/mpeg"/>
+			<itunes:summary>Comentamos los dos primeros dos capítulos de The Programmer&apos;s Brain.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:22:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Salarios]]></title>
+			<description><![CDATA[Le damos una pensada a la industria sus salarios y divagamos un poco sobre el futuro.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Salarios-e1unnpp</link>
+			<guid isPermaLink="false">8AD553DB-14A6-5CDF-B1DF-777E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 20 Jan 2022 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789753/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971868-48000-1-912bc57d9d5a805b.mp3" length="14049778" type="audio/mpeg"/>
+			<itunes:summary>Le damos una pensada a la industria sus salarios y divagamos un poco sobre el futuro.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:19:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Retro 2021]]></title>
+			<description><![CDATA[Hacemos retrospectiva del año 2021 y hablamos del futuro del podcast y de nuestros intereses.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Retro-2021-e1unnq9</link>
+			<guid isPermaLink="false">9BC553DB-14A6-5CDF-B1DF-777E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 16 Dec 2021 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971881-48000-1-0402d5c4480b80d2.mp3" length="23632684" type="audio/mpeg"/>
+			<itunes:summary>Hacemos retrospectiva del año 2021 y hablamos del futuro del podcast y de nuestros intereses.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Deuda técnica]]></title>
+			<description><![CDATA[Hablamos sobre distintos tipos de código y cómo mantenerlos controlados :)
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Deuda-tcnica-e1unnps</link>
+			<guid isPermaLink="false">9BC783DB-14A6-5CDF-B1DF-777E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Tue, 30 Nov 2021 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789756/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971863-44100-1-1ec9cb3f7e68edfb.mp3" length="21982581" type="audio/mpeg"/>
+			<itunes:summary>Hablamos sobre distintos tipos de código y cómo mantenerlos controlados :)
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Entrega tan rápido como puedas]]></title>
+			<description><![CDATA[Hablamos sobre kanban, entrega de valor, equipos auto organizados y en general como entregar tan rápido como sea posible.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Entrega-tan-rapido-como-puedas-e1unnqu</link>
+			<guid isPermaLink="false">9BC693DB-14A6-5CDF-B1DF-777E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Fri, 19 Nov 2021 17:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789790/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971928-44100-1-39d267ebf47749af.mp3" length="17947056" type="audio/mpeg"/>
+			<itunes:summary>Hablamos sobre kanban, entrega de valor, equipos auto organizados y en general como entregar tan rápido como sea posible.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:25:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Programación asíncrona]]></title>
+			<description><![CDATA[Hablamos sobre concurrencia y paralelismo y cómo JS nos ayuda a conseguirlo.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Programacin-asncrona-e1unnq5</link>
+			<guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-777E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 11 Nov 2021 15:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971877-44100-1-20393dc6c6af6894.mp3" length="19359827" type="audio/mpeg"/>
+			<itunes:summary>Hablamos sobre concurrencia y paralelismo y cómo JS nos ayuda a conseguirlo.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Decide lo más tarde posible]]></title>
+			<description><![CDATA[Último momento responsable o procrastinación? Intentamos arrojar algo de luz a este tema.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Decide-lo-ms-tarde-posible-e1unnp5</link>
+			<guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-666E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 04 Nov 2021 15:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789733/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971837-44100-1-526d4b8cebdd833c.mp3" length="15306822" type="audio/mpeg"/>
+			<itunes:summary>Último momento responsable o procrastinación? Intentamos arrojar algo de luz a este tema.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:22:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[SOLID is not solid]]></title>
+			<description><![CDATA[Hacemos una crítica del libro SOLID is not solid, hablamos de CUPID y algo más.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/SOLID-is-not-solid-e1unnpe</link>
+			<guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-685E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 28 Oct 2021 15:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971843-44100-1-148c8cdb4ae3711d.mp3" length="24864025" type="audio/mpeg"/>
+			<itunes:summary>Hacemos una crítica del libro SOLID is not solid, hablamos de CUPID y algo más.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:34:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Es waste?]]></title>
+			<description><![CDATA[Decidimos que prácticas son waste y cuales no.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Es-waste-e1unnpr</link>
+			<guid isPermaLink="false">7AF693DB-14A6-5CDF-B1CF-685E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 21 Oct 2021 19:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971857-44100-1-a2c7903604ec06d2.mp3" length="23865159" type="audio/mpeg"/>
+			<itunes:summary>Decidimos que prácticas son waste y cuales no.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:35:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Pair programming]]></title>
+			<description><![CDATA[Hablamos sobre pair programming y lo comparamos con mob programming.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Pair-programming-e1unnph</link>
+			<guid isPermaLink="false">7AF693DB-14A6-4CDF-B1CF-685E15AB034A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 17 Oct 2021 19:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971852-44100-1-dc6dd799708e96fb.mp3" length="17424830" type="audio/mpeg"/>
+			<itunes:summary>Hablamos sobre pair programming y lo comparamos con mob programming.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:25:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Waste]]></title>
+			<description><![CDATA[Qué es waste? Tipos comunes y nuestra experiencia encontrándolo.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Waste-e1unnqf</link>
+			<guid isPermaLink="false">7AF693DB-14A6-4CDF-B1CF-685E15AB084A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sat, 09 Oct 2021 19:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971884-44100-1-d451058dd077b9d0.mp3" length="23118746" type="audio/mpeg"/>
+			<itunes:summary>Qué es waste? Tipos comunes y nuestra experiencia encontrándolo.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Origen]]></title>
+			<description><![CDATA[Cómo has llegado hasta aquí?
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Origen-e1unnpn</link>
+			<guid isPermaLink="false">7AF692DB-14A6-4CDF-B1CF-685E15AB084A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 20 Sep 2021 19:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789751/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971865-44100-1-ced676ec4ed052ee.mp3" length="12435473" type="audio/mpeg"/>
+			<itunes:summary>Cómo has llegado hasta aquí?
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:15:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Es un código con tests un código mejor?]]></title>
+			<description><![CDATA[Intentamos contestar esta pregunta recurrente Es un código con tests un código mejor?
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Es-un-codigo-con-tests-un-codigo-mejor-e1unnq6</link>
+			<guid isPermaLink="false">207e9347-be78-4967-b4e0-a5ed0f17eff7</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 10 May 2021 19:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971840-44100-2-66d1ae4a28e827f7.mp3" length="26936259" type="audio/mpeg"/>
+			<itunes:summary>Intentamos contestar esta pregunta recurrente Es un código con tests un código mejor?
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Legacy code]]></title>
+			<description><![CDATA[Mauro y David hablan sobre su experiencia trabajando con legacy code.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Legacy-code-e1unnqq</link>
+			<guid isPermaLink="false">3d559e73-e48f-4a73-87bf-0e8d0e48f575</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Fri, 12 Mar 2021 19:07:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971886-48000-2-02f4d905ebcfb9e3.mp3" length="80790032" type="audio/mpeg"/>
+			<itunes:summary>Mauro y David hablan sobre su experiencia trabajando con legacy code.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:08:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[DDD y NOSQL]]></title>
+			<description><![CDATA[Mauro y David hablan sobre bases de datos y cual puede encajar mejor en una arquitectura que sigue los patrones DDD.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/DDD-y-NOSQL-e1unnrm</link>
+			<guid isPermaLink="false">1BC99BA7-1CE8-4A3F-A9DB-8008C63261D5</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Fri, 05 Mar 2021 19:07:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789814/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971992-48000-2-0cda9f409078e23b.mp3" length="56741423" type="audio/mpeg"/>
+			<itunes:summary>Mauro y David hablan sobre bases de datos y cual puede encajar mejor en una arquitectura que sigue los patrones DDD.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Hablando sobre APIs]]></title>
+			<description><![CDATA[Mauro y David hablan largo y tendido sobre APIs, opiniones, experiencias y unas risas.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Hablando-sobre-APIs-e1unns0</link>
+			<guid isPermaLink="false">51E12072-D0DF-4F5F-A004-A041FDC32C0E</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Fri, 26 Feb 2021 20:13:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311972017-48000-2-8c7fc8fd6d050304.mp3" length="63834100" type="audio/mpeg"/>
+			<itunes:summary>Mauro y David hablan largo y tendido sobre APIs, opiniones, experiencias y unas risas.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:13:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+		<item>
+			<title><![CDATA[Respuestas a preguntas técnicas]]></title>
+			<description><![CDATA[Mauro y David plantean algunas preguntas que suelen salir en entrevistas y tratan de contestarlas.
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Respuestas-a-preguntas-tcnicas-e1unnqh</link>
+			<guid isPermaLink="false">7AF692DB-14A6-4CDF-B0CF-685E15AB084A</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Fri, 19 Feb 2021 19:20:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/64789777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F311971871-48000-2-7c8d0e743ab5d31a.mp3" length="56741423" type="audio/mpeg"/>
+			<itunes:summary>Mauro y David plantean algunas preguntas que suelen salir en entrevistas y tratan de contestarlas.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:58:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		</item>
+	</channel>
 </rss>
