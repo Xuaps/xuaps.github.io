@@ -9,7 +9,7 @@
 			<link>https://anchor.fm/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 13 Feb 2023 14:44:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Feb 2023 07:13:27 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[Olvidar la performance considered harmful]]></title>
+			<description><![CDATA[<p>Mauro está muy preocupado por si está perdiendo usuarios debido a problemas de performance y no está siendo consciente. Seguimos con la temática del último episodio hablando sobre cómo priorizar un problema de performance y comentamos que evitarlos en primer lugar sería lo ideal. Rellenamos con ChatGPT y los dramas en la comunidad React.</p>
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Olvidar-la-performance-considered-harmful-e1v6n12</link>
+			<guid isPermaLink="false">7da3ccd0-463a-43a0-bc64-cfb1743ac02b</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 20 Feb 2023 07:00:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/65280482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-19%2Fb43eddce-8cd0-b7a6-23a4-1b08192cca14.mp3" length="24105907" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Mauro está muy preocupado por si está perdiendo usuarios debido a problemas de performance y no está siendo consciente. Seguimos con la temática del último episodio hablando sobre cómo priorizar un problema de performance y comentamos que evitarlos en primer lugar sería lo ideal. Rellenamos con ChatGPT y los dramas en la comunidad React.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:31:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[ Código degradado considered harmful]]></title>
 			<description><![CDATA[El código limpio no existe. Cualquier solución es perecedera y acaba degradándose. Cómo combatimos esta degradación? Se ha escrito mucho sobre cómo prevenirla pero todos sabemos que tarde o temprano aparecerá. ¿Está tu equipo preparado?
@@ -57,6 +75,9 @@
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:32:58</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[Tech leads considered harmful]]></title>
@@ -72,6 +93,9 @@
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:25:10</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[Algunos tipos de programadores considered harmful.]]></title>
@@ -87,6 +111,9 @@
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:37:51</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[Oficina]]></title>
