@@ -9,7 +9,7 @@
 			<link>https://anchor.fm/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 20 Feb 2023 07:13:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Feb 2023 14:05:07 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[Inercia considered harmful]]></title>
+			<description><![CDATA[<p>Ante la incomparecencia de uno de los miembros del equipo, en lugar de una charla sobre la inercia os dejamos con una reflexión.</p>
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Inercia-considered-harmful-e1vhrel</link>
+			<guid isPermaLink="false">22c00ea5-52cd-4e81-9e5d-2d329fc43ffd</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 27 Feb 2023 14:00:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/65645461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-26%2F796139c3-62da-a469-71c4-de2d1e3091a3.mp3" length="3333954" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ante la incomparecencia de uno de los miembros del equipo, en lugar de una charla sobre la inercia os dejamos con una reflexión.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:01:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Olvidar la performance considered harmful]]></title>
 			<description><![CDATA[<p>Mauro está muy preocupado por si está perdiendo usuarios debido a problemas de performance y no está siendo consciente. Seguimos con la temática del último episodio hablando sobre cómo priorizar un problema de performance y comentamos que evitarlos en primer lugar sería lo ideal. Rellenamos con ChatGPT y los dramas en la comunidad React.</p>
