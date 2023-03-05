@@ -9,7 +9,7 @@
 			<link>https://anchor.fm/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 27 Feb 2023 14:05:07 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 05 Mar 2023 12:31:45 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[No ser vocal considered harmful]]></title>
+			<description><![CDATA[<p>Quejas y reflexiones o lo que pasa cuando dejas a un señor mayor solo haciendo el podcast.</p>
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/No-ser-vocal-considered-harmful-e1vsngk</link>
+			<guid isPermaLink="false">5fc23acc-59fe-492b-be44-e9ea35793592</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 05 Mar 2023 12:30:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/66001876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-5%2F47d500be-497d-6413-cef6-59b47025ce34.mp3" length="3893130" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Quejas y reflexiones o lo que pasa cuando dejas a un señor mayor solo haciendo el podcast.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:02:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Inercia considered harmful]]></title>
 			<description><![CDATA[<p>Ante la incomparecencia de uno de los miembros del equipo, en lugar de una charla sobre la inercia os dejamos con una reflexión.</p>
