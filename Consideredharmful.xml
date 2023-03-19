@@ -9,7 +9,7 @@
 			<link>https://anchor.fm/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 05 Mar 2023 12:31:45 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Mar 2023 18:18:59 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[Historias de usuario]]></title>
+			<description><![CDATA[<p>Conversación sobre la definición de una &quot;historia de usuario&quot;. debatimos sobre lo que es y lo que no es una historia de usuario, y cómo se puede definir. En general, estamos de acuerdo en que una historia de usuario es un incremento de valor en un producto, pero tienen diferencias en cuanto a lo que esto implica. También discuten la relación entre una historia de usuario y la conversación pendiente con un usuario, así como el concepto de &quot;mínimo marketable&quot;. En resumen, la conversación es una exploración de los diferentes aspectos y perspectivas sobre lo que es una historia de usuario.</p>
+]]></description>
+			<link>https://anchor.fm/consideredharmful/episodes/Historias-de-usuario-e20noj6</link>
+			<guid isPermaLink="false">32038b52-ecf9-4d8d-a34e-27d31ab97ca6</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 19 Mar 2023 18:12:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/66887718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-19%2Fc894e891-5031-347c-5917-0628bb0d5edf.mp3" length="21972434" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Conversación sobre la definición de una &amp;quot;historia de usuario&amp;quot;. debatimos sobre lo que es y lo que no es una historia de usuario, y cómo se puede definir. En general, estamos de acuerdo en que una historia de usuario es un incremento de valor en un producto, pero tienen diferencias en cuanto a lo que esto implica. También discuten la relación entre una historia de usuario y la conversación pendiente con un usuario, así como el concepto de &amp;quot;mínimo marketable&amp;quot;. En resumen, la conversación es una exploración de los diferentes aspectos y perspectivas sobre lo que es una historia de usuario.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:30:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[No ser vocal considered harmful]]></title>
 			<description><![CDATA[<p>Quejas y reflexiones o lo que pasa cuando dejas a un señor mayor solo haciendo el podcast.</p>
