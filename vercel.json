@@ -4,6 +4,11 @@
       "source": "/Consideredharmful.xml",
       "destination": "https://anchor.fm/s/55f69654/podcast/rss",
       "permanent": true
+    },
+    {
+      "source": "/side-projects/",
+      "destination": "https://github.com/Xuaps",
+      "permanent": true
     }
   ]
 }
