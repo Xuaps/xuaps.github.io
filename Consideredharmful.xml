@@ -2,14 +2,14 @@
 	<channel>
 		<title><![CDATA[Considered harmful]]></title>
 		<description><![CDATA[Podcast dedicado al desarrollo de software. Hablamos de clean code, arquitectura, lenguajes de programación, buenas prácticas y cualquier cosa relacionada con el mundo de la programación en general. En cada capítulo nos enfocamos en un tema distinto e intentamos abordarlo desde diferentes puntos de vista. Únete a nuestra comunidad https://t.me/consideredharmful]]></description>
-		<link>https://anchor.fm/consideredharmful</link>
+		<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg</url>
 			<title>Considered harmful</title>
-			<link>https://anchor.fm/consideredharmful</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 19 Mar 2023 18:18:59 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 16 Apr 2023 17:00:15 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -26,10 +26,28 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
 		<item>
+			<title><![CDATA[¿Qué es un equipo de producto?]]></title>
+			<description><![CDATA[<p>Mauro y David hablan sobre su semana y comentan que están grabando juntos en la misma mesa con micrófonos de verdad. Después de una pequeña conversación, David plantea la pregunta del episodio, ¿Qué es para ti, Mauro, un equipo de producto? Mauro comienza a responder y define un equipo de producto como aquel que cuenta con todas las herramientas necesarias para poner una idea en producción y transformarla en valor para la empresa y el producto. También reflexionan sobre el input que se le da al equipo de producto para lograr sus objetivos. Mauro menciona ejemplos como un OKR o la necesidad de integrar inteligencia artificial en el producto.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Qu-es-un-equipo-de-producto-e22fire</link>
+			<guid isPermaLink="false">fd6cbe3d-cf11-4956-92ec-d8bfc2cf6556</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 16 Apr 2023 16:58:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/68716846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-16%2F1453eaa1-28e8-22ba-faed-2e3daee6fef5.mp3" length="22319131" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Mauro y David hablan sobre su semana y comentan que están grabando juntos en la misma mesa con micrófonos de verdad. Después de una pequeña conversación, David plantea la pregunta del episodio, ¿Qué es para ti, Mauro, un equipo de producto? Mauro comienza a responder y define un equipo de producto como aquel que cuenta con todas las herramientas necesarias para poner una idea en producción y transformarla en valor para la empresa y el producto. También reflexionan sobre el input que se le da al equipo de producto para lograr sus objetivos. Mauro menciona ejemplos como un OKR o la necesidad de integrar inteligencia artificial en el producto.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:28:35</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[Historias de usuario]]></title>
 			<description><![CDATA[<p>Conversación sobre la definición de una &quot;historia de usuario&quot;. debatimos sobre lo que es y lo que no es una historia de usuario, y cómo se puede definir. En general, estamos de acuerdo en que una historia de usuario es un incremento de valor en un producto, pero tienen diferencias en cuanto a lo que esto implica. También discuten la relación entre una historia de usuario y la conversación pendiente con un usuario, así como el concepto de &quot;mínimo marketable&quot;. En resumen, la conversación es una exploración de los diferentes aspectos y perspectivas sobre lo que es una historia de usuario.</p>
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Historias-de-usuario-e20noj6</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Historias-de-usuario-e20noj6</link>
 			<guid isPermaLink="false">32038b52-ecf9-4d8d-a34e-27d31ab97ca6</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Sun, 19 Mar 2023 18:12:54 GMT</pubDate>
@@ -47,7 +65,7 @@
 			<title><![CDATA[No ser vocal considered harmful]]></title>
 			<description><![CDATA[<p>Quejas y reflexiones o lo que pasa cuando dejas a un señor mayor solo haciendo el podcast.</p>
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/No-ser-vocal-considered-harmful-e1vsngk</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/No-ser-vocal-considered-harmful-e1vsngk</link>
 			<guid isPermaLink="false">5fc23acc-59fe-492b-be44-e9ea35793592</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Sun, 05 Mar 2023 12:30:36 GMT</pubDate>
@@ -65,7 +83,7 @@
 			<title><![CDATA[Inercia considered harmful]]></title>
 			<description><![CDATA[<p>Ante la incomparecencia de uno de los miembros del equipo, en lugar de una charla sobre la inercia os dejamos con una reflexión.</p>
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Inercia-considered-harmful-e1vhrel</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Inercia-considered-harmful-e1vhrel</link>
 			<guid isPermaLink="false">22c00ea5-52cd-4e81-9e5d-2d329fc43ffd</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 27 Feb 2023 14:00:10 GMT</pubDate>
@@ -83,7 +101,7 @@
 			<title><![CDATA[Olvidar la performance considered harmful]]></title>
 			<description><![CDATA[<p>Mauro está muy preocupado por si está perdiendo usuarios debido a problemas de performance y no está siendo consciente. Seguimos con la temática del último episodio hablando sobre cómo priorizar un problema de performance y comentamos que evitarlos en primer lugar sería lo ideal. Rellenamos con ChatGPT y los dramas en la comunidad React.</p>
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Olvidar-la-performance-considered-harmful-e1v6n12</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Olvidar-la-performance-considered-harmful-e1v6n12</link>
 			<guid isPermaLink="false">7da3ccd0-463a-43a0-bc64-cfb1743ac02b</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 20 Feb 2023 07:00:25 GMT</pubDate>
@@ -101,7 +119,7 @@
 			<title><![CDATA[ Código degradado considered harmful]]></title>
 			<description><![CDATA[El código limpio no existe. Cualquier solución es perecedera y acaba degradándose. Cómo combatimos esta degradación? Se ha escrito mucho sobre cómo prevenirla pero todos sabemos que tarde o temprano aparecerá. ¿Está tu equipo preparado?
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Cdigo-degradado-considered-harmful-e1urocj</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Cdigo-degradado-considered-harmful-e1urocj</link>
 			<guid isPermaLink="false">7e0a6069-4c97-4f86-96f5-c96a6700eb7d</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 13 Feb 2023 14:38:58 GMT</pubDate>
@@ -119,7 +137,7 @@
 			<title><![CDATA[Medir la salud del equipo considered harmful]]></title>
 			<description><![CDATA[¿Cómo medir la salud del equipo? ¿Qué modos hay? ¿Sirve para algo? ¿Por qué lo hacemos? Estas son algunas de las preguntas que intentamos contestar a lo largo de este nuevo episodio.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Medir-la-salud-del-equipo-considered-harmful-e1unnq7</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Medir-la-salud-del-equipo-considered-harmful-e1unnq7</link>
 			<guid isPermaLink="false">8DD278DC-09B5-5CDF-B2CF-554DD6AD111B</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 06 Feb 2023 17:20:37 GMT</pubDate>
@@ -137,7 +155,7 @@
 			<title><![CDATA[Tech leads considered harmful]]></title>
 			<description><![CDATA[Smell, necesarios o inevitables? Hablamos de nuestra experiencia ejerciendo este rol, de lo que nos ha funcionado, lo que no y como evitarlos a toda costa.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Tech-leads-considered-harmful-e1unnql</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Tech-leads-considered-harmful-e1unnql</link>
 			<guid isPermaLink="false">8DD278DC-09B5-5CDF-B2CF-554DD6AD222A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 30 Jan 2023 17:20:37 GMT</pubDate>
@@ -155,7 +173,7 @@
 			<title><![CDATA[Algunos tipos de programadores considered harmful.]]></title>
 			<description><![CDATA[Nos inventamos una taxonomía de los malos tipos de programadores con los que nos hemos encontrado y los skills que creemos que les faltaban. Después de la broma terminamos hablando de makers y menders. ¿Qué tipo eres tú?
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Algunos-tipos-de-programadores-considered-harmful-e1unnra</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Algunos-tipos-de-programadores-considered-harmful-e1unnra</link>
 			<guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD222A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 23 Jan 2023 17:20:37 GMT</pubDate>
@@ -173,7 +191,7 @@
 			<title><![CDATA[Oficina]]></title>
 			<description><![CDATA[Muchas empresas están llamando a volver a la oficina a sus empleados. ¿Qué está pasando? ¿No sabemos trabajar en remoto? ¿No queremos? Compartimos nuestras experiencias y discutimos argumentos a favor y en contra.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Oficina-e1unnpi</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Oficina-e1unnpi</link>
 			<guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD111A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 19 Dec 2022 17:20:37 GMT</pubDate>
@@ -188,7 +206,7 @@
 			<title><![CDATA[Programador E2E]]></title>
 			<description><![CDATA[En este capítulo nos apetecía comentar esta newsletter de Javi Santana https://javisantana.substack.com/p/a-la-segunda-todo-sale-bien-el-end. Le sacamos un poco de punta y discrepamos en el fondo del artículo, ¿quién tiene razón? Probablemente ninguno.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Programador-E2E-e1unnp6</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Programador-E2E-e1unnp6</link>
 			<guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-554DD6AD777C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 12 Dec 2022 17:20:37 GMT</pubDate>
@@ -203,7 +221,7 @@
 			<title><![CDATA[Objetivos]]></title>
 			<description><![CDATA[Llega ese momento del año en el que tenemos que echar la vista atrás para ver que hemos hecho y que queremos hacer. Hablamos de objetivos, de nuestra experiencia y os damos nuestra, como siempre, desinformada opinión. #ConsideredHarmful Escucha el último episodio https://link.chtbl.com/f7fraYBW Comenta tu opinión en nuestra comunidad https://t.me/consideredharmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Objetivos-e1unnr5</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Objetivos-e1unnr5</link>
 			<guid isPermaLink="false">8DD278DC-14B5-5CDF-B2CF-987DD6AD777C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 05 Dec 2022 17:20:37 GMT</pubDate>
@@ -218,7 +236,7 @@
 			<title><![CDATA[Incentivos]]></title>
 			<description><![CDATA[Deuda técnica e incentivos, ¿existe alguna relación? ¿Podemos usar los incentivos para dirigir el comportamiento del equipo? ¿Será que David ya está muy mayor? #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Incentivos-e1unnp8</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Incentivos-e1unnp8</link>
 			<guid isPermaLink="false">5FF278DC-14B5-5CDF-B2CF-987DD6AD777C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 28 Nov 2022 17:20:37 GMT</pubDate>
@@ -233,7 +251,7 @@
 			<title><![CDATA[Lo del Twitter]]></title>
 			<description><![CDATA[¡Vuelven los cuñados! Hablamos sobre nuestra impresión de lo que está pasando en Twitter y cómo afecta al mercado para terminar hablando de empresas locales y de la industria gallega. Uno de esos episodios que no te puedes perder si quieres echarte unas risas.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Lo-del-Twitter-e1unnqr</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Lo-del-Twitter-e1unnqr</link>
 			<guid isPermaLink="false">5FF278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 21 Nov 2022 17:20:37 GMT</pubDate>
@@ -248,7 +266,7 @@
 			<title><![CDATA[Spikes]]></title>
 			<description><![CDATA[Hablamos de una de nuestras herramientas favoritas. ¿Qué son? ¿Para qué sirven? ¿Cómo las usamos? Corto y al pie! #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Spikes-e1unnpl</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Spikes-e1unnpl</link>
 			<guid isPermaLink="false">9AA278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 14 Nov 2022 17:20:37 GMT</pubDate>
@@ -263,7 +281,7 @@
 			<title><![CDATA[Managers]]></title>
 			<description><![CDATA[Animal mitológico, rol innecesario o parte fundamental de un equipo de producto? Hablamos sobre las atribuciones que suele tener un manager y si se puede vivir sin ellos. #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Managers-e1unnpv</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Managers-e1unnpv</link>
 			<guid isPermaLink="false">9FF278DC-14B5-5CDF-B2CF-987DD5AD357C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 07 Nov 2022 17:20:37 GMT</pubDate>
@@ -278,7 +296,7 @@
 			<title><![CDATA[Mentoría en vivo 1]]></title>
 			<description><![CDATA[Teníamos ganas de ponernos al día, hablar de cómo nos sentimos y que nos preocupa, cuáles son nuestras inquietudes y donde invertimos nuestro tiempo. Y pensamos, ¿qué mejor que una mentoría? ¿por qué no grabarla? Nos ha gustado la experiencia así que probablemente esta sea la primera de muchas. Esperamos que también os guste. #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Mentora-en-vivo-1-e1unnqc</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Mentora-en-vivo-1-e1unnqc</link>
 			<guid isPermaLink="false">9FF278DC-14B5-5CDF-B2CF-987C15AD357C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Sun, 23 Oct 2022 17:20:37 GMT</pubDate>
@@ -293,7 +311,7 @@
 			<title><![CDATA[Local first]]></title>
 			<description><![CDATA[¿Te imaginas un mundo en el que la web renderiza 60 veces en un segundo, las UIs son fluidas y tus datos son solo tuyos? Estos son algunos de los objetivos de las aplicaciones local-first. En este episodio charlamos sobre ello. #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Local-first-e1unnpo</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Local-first-e1unnpo</link>
 			<guid isPermaLink="false">9DD178DC-14B5-5CDF-B2CF-987C15AD357C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Sun, 16 Oct 2022 17:20:37 GMT</pubDate>
@@ -308,7 +326,7 @@
 			<title><![CDATA[Bootcamps]]></title>
 			<description><![CDATA[¿Sí o no a los bootcamps? ¿Qué tienen de bueno? ¿Qué echamos en falta? Si te interesa la opinión de dos personas que no han hecho un bootcamp, no te puedes perder este episodio :) #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Bootcamps-e1unnr1</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Bootcamps-e1unnr1</link>
 			<guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-987C15AD357C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 10 Oct 2022 17:20:37 GMT</pubDate>
@@ -323,7 +341,7 @@
 			<title><![CDATA[Seniority]]></title>
 			<description><![CDATA[En este capítulo analizamos al desarrollador senior, como medimos la senority, como afecta a nuestro salario, discutimos si es un modelo justo o no y mucho más. Vente a echarte unas risas con #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Seniority-e1unnqg</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Seniority-e1unnqg</link>
 			<guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-777C15AD357C</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 03 Oct 2022 17:20:37 GMT</pubDate>
@@ -338,7 +356,7 @@
 			<title><![CDATA[Estructuras organizativas]]></title>
 			<description><![CDATA[¿Cómo afecta la estructura de tu equipo a tus diseños y arquitectura? ¿Qué elementos influyen en la comunicación de tu equipo? ¿Cuando un equipo es demasiado grande? Estas y otras cuestiones en el segundo episodio de la cuarta temporada de #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Estructuras-organizativas-e1unnqb</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Estructuras-organizativas-e1unnqb</link>
 			<guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-777C15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 26 Sep 2022 17:20:37 GMT</pubDate>
@@ -353,7 +371,7 @@
 			<title><![CDATA[Arquitectura y mantenibilidad]]></title>
 			<description><![CDATA[Hablamos sobre arquitectura y mantenibilidad. ¿Afecta la arquitectura a lo mantenible que sea nuestro proyecto? ¿Hay arquitecturas más sostenibles que otras? Estas y otras preguntas en el primer episodio de la cuarta temporada de #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Arquitectura-y-mantenibilidad-e1unnqe</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Arquitectura-y-mantenibilidad-e1unnqe</link>
 			<guid isPermaLink="false">9DD178DC-14A6-5CDF-B2CF-888C15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 19 Sep 2022 17:20:37 GMT</pubDate>
@@ -368,7 +386,7 @@
 			<title><![CDATA[Resumen temporada]]></title>
 			<description><![CDATA[Echamos un vistazo a todos los capítulos de esta última temporada. Nuevas ideas y cosas que han cambiado en estos últimos meses. Si sólo puedes escuchar un capítulo que sea este #ConsideredHarmful.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Resumen-temporada-e1unnpf</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Resumen-temporada-e1unnpf</link>
 			<guid isPermaLink="false">8CC178DC-14A6-5CDF-B2CF-888C15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 09 Jun 2022 17:20:37 GMT</pubDate>
@@ -383,7 +401,7 @@
 			<title><![CDATA[Sorpresa]]></title>
 			<description><![CDATA[Episodio sorpresa. En el penúltimo episodio de la temporada Mauro elige la caja sorpresa. A pesar de eso creo que nos ha quedado un buen programa, juzga tu misma #ConsideredHarmful.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Sorpresa-e1unnq0</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Sorpresa-e1unnq0</link>
 			<guid isPermaLink="false">8FF378DC-14A6-5CDF-B2CF-888C15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 02 Jun 2022 17:20:37 GMT</pubDate>
@@ -398,7 +416,7 @@
 			<title><![CDATA[Feature Flags]]></title>
 			<description><![CDATA[Feature Flags, ¿qué son? ¿Cómo las usamos? ¿Cuál es su relación con parallel change? Errores comunes. Te damos la visión de #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Feature-Flags-e1unnqn</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Feature-Flags-e1unnqn</link>
 			<guid isPermaLink="false">8FF378DC-14A6-5CDF-B2CF-866E15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 26 May 2022 17:20:37 GMT</pubDate>
@@ -413,7 +431,7 @@
 			<title><![CDATA[Pair programming]]></title>
 			<description><![CDATA[Volvemos a la carga con pair programming. Buenas y malas prácticas salpicadas de anécdotas personales y alguna que otra risa. #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Pair-programming-e1unnpc</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Pair-programming-e1unnpc</link>
 			<guid isPermaLink="false">8FF344DB-14A6-5CDF-B2CF-866E15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 12 May 2022 17:20:37 GMT</pubDate>
@@ -428,7 +446,7 @@
 			<title><![CDATA[Arquitectura evolutiva]]></title>
 			<description><![CDATA[Comentamos el libro Building Evolutionary Architectures. Fitness functions, facilitar el cambio, desplegar código, construir código y mucho más. #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Arquitectura-evolutiva-e1unnpd</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Arquitectura-evolutiva-e1unnpd</link>
 			<guid isPermaLink="false">8FF344DB-14A6-5CDF-B2CF-899E15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 05 May 2022 17:20:37 GMT</pubDate>
@@ -443,7 +461,7 @@
 			<title><![CDATA[Lecciones aprendidas]]></title>
 			<description><![CDATA[Algunos errores que hemos cometido visto en retrospectiva y qué haríamos a día de hoy. No te lo puedes perder #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Lecciones-aprendidas-e1unnpk</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Lecciones-aprendidas-e1unnpk</link>
 			<guid isPermaLink="false">8CC344DB-14A6-5CDF-B2CF-899E15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Fri, 29 Apr 2022 17:20:37 GMT</pubDate>
@@ -458,7 +476,7 @@
 			<title><![CDATA[Agente del cambio]]></title>
 			<description><![CDATA[¿Cual es la promesa de agile? Has intentado convertir tu empresa en una empresa agile? ¿Qué lecciones has aprendido? ¿Por dónde empezar? Esto y mucho más en este nuevo capítulo de #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Agente-del-cambio-e1unnq1</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Agente-del-cambio-e1unnq1</link>
 			<guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-899E15AD356A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 31 Mar 2022 17:20:37 GMT</pubDate>
@@ -473,7 +491,7 @@
 			<title><![CDATA[Programación reactiva]]></title>
 			<description><![CDATA[¿Qué es la programación reactiva? ¿Es React realmente reactivo? ¿Realmente importa? Las respuestas a todas tus preguntas en #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Programacin-reactiva-e1unnq8</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Programacin-reactiva-e1unnq8</link>
 			<guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-899E15AD134A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 24 Mar 2022 17:20:37 GMT</pubDate>
@@ -488,7 +506,7 @@
 			<title><![CDATA[¡practica!]]></title>
 			<description><![CDATA[¡practica! Lo que ya sabes, lo que sabes que no sabes y lo que no sabes que no sabes.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/practica-e1unnpq</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/practica-e1unnpq</link>
 			<guid isPermaLink="false">8CC324DB-14A6-5CDF-B2CF-888E15AD134A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 17 Mar 2022 17:20:37 GMT</pubDate>
@@ -503,7 +521,7 @@
 			<title><![CDATA[Ingeniería de software II]]></title>
 			<description><![CDATA[Si queremos ser ingenieros debemos ser expertos en aprender. Desarrollo iterativo e incremental y feedback como herramientas fundamentales. #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Ingeniera-de-software-II-e1unnp9</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Ingeniera-de-software-II-e1unnp9</link>
 			<guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-888E15AD134A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 10 Mar 2022 17:20:37 GMT</pubDate>
@@ -518,7 +536,7 @@
 			<title><![CDATA[Ingeniería de software]]></title>
 			<description><![CDATA[¿Es el desarrollo del software una ingeniería? ¿Podemos aplicar el método científico? ¿Hay métricas más allá de contar lineas? esto y más en el último episodio de #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Ingeniera-de-software-e1unnpa</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Ingeniera-de-software-e1unnpa</link>
 			<guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-777E15AD134A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 24 Feb 2022 17:20:37 GMT</pubDate>
@@ -533,7 +551,7 @@
 			<title><![CDATA[Estrategia de testing]]></title>
 			<description><![CDATA[Trofeo, pirámide o diamante de testing? Test unitario o integración? TDD en #ConsideredHarmful
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Estrategia-de-testing-e1unnq4</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Estrategia-de-testing-e1unnq4</link>
 			<guid isPermaLink="false">8AC554DB-14A6-5CDF-B2CF-777E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 17 Feb 2022 17:20:37 GMT</pubDate>
@@ -548,7 +566,7 @@
 			<title><![CDATA[Arquitectura front]]></title>
 			<description><![CDATA[¿Qué debe tener una arquitectura front para que Mauro la considere buena?
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Arquitectura-front-e1unnpu</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Arquitectura-front-e1unnpu</link>
 			<guid isPermaLink="false">8AC443DB-14A6-5CDF-B2CF-777E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 10 Feb 2022 17:20:37 GMT</pubDate>
@@ -563,7 +581,7 @@
 			<title><![CDATA[La mente del programador]]></title>
 			<description><![CDATA[Comentamos los dos primeros dos capítulos de The Programmer's Brain.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/La-mente-del-programador-e1unnqa</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/La-mente-del-programador-e1unnqa</link>
 			<guid isPermaLink="false">8AD553DB-14A6-5CDF-B2CF-777E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 27 Jan 2022 17:20:37 GMT</pubDate>
@@ -578,7 +596,7 @@
 			<title><![CDATA[Salarios]]></title>
 			<description><![CDATA[Le damos una pensada a la industria sus salarios y divagamos un poco sobre el futuro.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Salarios-e1unnpp</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Salarios-e1unnpp</link>
 			<guid isPermaLink="false">8AD553DB-14A6-5CDF-B1DF-777E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 20 Jan 2022 17:20:37 GMT</pubDate>
@@ -593,7 +611,7 @@
 			<title><![CDATA[Retro 2021]]></title>
 			<description><![CDATA[Hacemos retrospectiva del año 2021 y hablamos del futuro del podcast y de nuestros intereses.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Retro-2021-e1unnq9</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Retro-2021-e1unnq9</link>
 			<guid isPermaLink="false">9BC553DB-14A6-5CDF-B1DF-777E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 16 Dec 2021 17:20:37 GMT</pubDate>
@@ -608,7 +626,7 @@
 			<title><![CDATA[Deuda técnica]]></title>
 			<description><![CDATA[Hablamos sobre distintos tipos de código y cómo mantenerlos controlados :)
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Deuda-tcnica-e1unnps</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Deuda-tcnica-e1unnps</link>
 			<guid isPermaLink="false">9BC783DB-14A6-5CDF-B1DF-777E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Tue, 30 Nov 2021 17:20:37 GMT</pubDate>
@@ -623,7 +641,7 @@
 			<title><![CDATA[Entrega tan rápido como puedas]]></title>
 			<description><![CDATA[Hablamos sobre kanban, entrega de valor, equipos auto organizados y en general como entregar tan rápido como sea posible.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Entrega-tan-rapido-como-puedas-e1unnqu</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Entrega-tan-rapido-como-puedas-e1unnqu</link>
 			<guid isPermaLink="false">9BC693DB-14A6-5CDF-B1DF-777E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Fri, 19 Nov 2021 17:20:37 GMT</pubDate>
@@ -638,7 +656,7 @@
 			<title><![CDATA[Programación asíncrona]]></title>
 			<description><![CDATA[Hablamos sobre concurrencia y paralelismo y cómo JS nos ayuda a conseguirlo.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Programacin-asncrona-e1unnq5</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Programacin-asncrona-e1unnq5</link>
 			<guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-777E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 11 Nov 2021 15:20:37 GMT</pubDate>
@@ -653,7 +671,7 @@
 			<title><![CDATA[Decide lo más tarde posible]]></title>
 			<description><![CDATA[Último momento responsable o procrastinación? Intentamos arrojar algo de luz a este tema.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Decide-lo-ms-tarde-posible-e1unnp5</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Decide-lo-ms-tarde-posible-e1unnp5</link>
 			<guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-666E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 04 Nov 2021 15:20:37 GMT</pubDate>
@@ -668,7 +686,7 @@
 			<title><![CDATA[SOLID is not solid]]></title>
 			<description><![CDATA[Hacemos una crítica del libro SOLID is not solid, hablamos de CUPID y algo más.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/SOLID-is-not-solid-e1unnpe</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/SOLID-is-not-solid-e1unnpe</link>
 			<guid isPermaLink="false">8AF693DB-14A6-5CDF-B1DF-685E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 28 Oct 2021 15:20:37 GMT</pubDate>
@@ -683,7 +701,7 @@
 			<title><![CDATA[Es waste?]]></title>
 			<description><![CDATA[Decidimos que prácticas son waste y cuales no.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Es-waste-e1unnpr</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Es-waste-e1unnpr</link>
 			<guid isPermaLink="false">7AF693DB-14A6-5CDF-B1CF-685E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Thu, 21 Oct 2021 19:20:37 GMT</pubDate>
@@ -698,7 +716,7 @@
 			<title><![CDATA[Pair programming]]></title>
 			<description><![CDATA[Hablamos sobre pair programming y lo comparamos con mob programming.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Pair-programming-e1unnph</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Pair-programming-e1unnph</link>
 			<guid isPermaLink="false">7AF693DB-14A6-4CDF-B1CF-685E15AB034A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Sun, 17 Oct 2021 19:20:37 GMT</pubDate>
@@ -713,7 +731,7 @@
 			<title><![CDATA[Waste]]></title>
 			<description><![CDATA[Qué es waste? Tipos comunes y nuestra experiencia encontrándolo.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Waste-e1unnqf</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Waste-e1unnqf</link>
 			<guid isPermaLink="false">7AF693DB-14A6-4CDF-B1CF-685E15AB084A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Sat, 09 Oct 2021 19:20:37 GMT</pubDate>
@@ -728,7 +746,7 @@
 			<title><![CDATA[Origen]]></title>
 			<description><![CDATA[Cómo has llegado hasta aquí?
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Origen-e1unnpn</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Origen-e1unnpn</link>
 			<guid isPermaLink="false">7AF692DB-14A6-4CDF-B1CF-685E15AB084A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 20 Sep 2021 19:20:37 GMT</pubDate>
@@ -743,7 +761,7 @@
 			<title><![CDATA[Es un código con tests un código mejor?]]></title>
 			<description><![CDATA[Intentamos contestar esta pregunta recurrente Es un código con tests un código mejor?
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Es-un-codigo-con-tests-un-codigo-mejor-e1unnq6</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Es-un-codigo-con-tests-un-codigo-mejor-e1unnq6</link>
 			<guid isPermaLink="false">207e9347-be78-4967-b4e0-a5ed0f17eff7</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Mon, 10 May 2021 19:20:37 GMT</pubDate>
@@ -758,7 +776,7 @@
 			<title><![CDATA[Legacy code]]></title>
 			<description><![CDATA[Mauro y David hablan sobre su experiencia trabajando con legacy code.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Legacy-code-e1unnqq</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Legacy-code-e1unnqq</link>
 			<guid isPermaLink="false">3d559e73-e48f-4a73-87bf-0e8d0e48f575</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Fri, 12 Mar 2021 19:07:16 GMT</pubDate>
@@ -773,7 +791,7 @@
 			<title><![CDATA[DDD y NOSQL]]></title>
 			<description><![CDATA[Mauro y David hablan sobre bases de datos y cual puede encajar mejor en una arquitectura que sigue los patrones DDD.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/DDD-y-NOSQL-e1unnrm</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/DDD-y-NOSQL-e1unnrm</link>
 			<guid isPermaLink="false">1BC99BA7-1CE8-4A3F-A9DB-8008C63261D5</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Fri, 05 Mar 2021 19:07:16 GMT</pubDate>
@@ -788,7 +806,7 @@
 			<title><![CDATA[Hablando sobre APIs]]></title>
 			<description><![CDATA[Mauro y David hablan largo y tendido sobre APIs, opiniones, experiencias y unas risas.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Hablando-sobre-APIs-e1unns0</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Hablando-sobre-APIs-e1unns0</link>
 			<guid isPermaLink="false">51E12072-D0DF-4F5F-A004-A041FDC32C0E</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Fri, 26 Feb 2021 20:13:45 GMT</pubDate>
@@ -803,7 +821,7 @@
 			<title><![CDATA[Respuestas a preguntas técnicas]]></title>
 			<description><![CDATA[Mauro y David plantean algunas preguntas que suelen salir en entrevistas y tratan de contestarlas.
 ]]></description>
-			<link>https://anchor.fm/consideredharmful/episodes/Respuestas-a-preguntas-tcnicas-e1unnqh</link>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Respuestas-a-preguntas-tcnicas-e1unnqh</link>
 			<guid isPermaLink="false">7AF692DB-14A6-4CDF-B0CF-685E15AB084A</guid>
 			<dc:creator><![CDATA[Xuaps]]></dc:creator>
 			<pubDate>Fri, 19 Feb 2021 19:20:37 GMT</pubDate>
