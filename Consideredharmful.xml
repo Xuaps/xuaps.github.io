@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 16 Apr 2023 17:00:15 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Apr 2023 10:28:43 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,26 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Puede ser perjudicial para el equipo programar en parejas?]]></title>
+			<description><![CDATA[<p>El podcast explora si la programación en parejas es perjudicial para el equipo. Se discuten las ventajas de trabajar en equipo y la importancia de la comunicación efectiva. También se consideran los desafíos, como la desigualdad de habilidades y la dificultad para mantener la motivación. En última instancia, se concluye que la programación en parejas puede ser beneficiosa si se abordan adecuadamente los desafíos.</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Puede-ser-perjudicial-para-el-equipo-programar-en-parejas-e22u22c</link>
+			<guid isPermaLink="false">555edd36-b5d5-47ef-beda-90a515ebf395</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 24 Apr 2023 10:27:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/69191180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-24%2Fc03195cc-b9cc-501a-1701-ca5c4f239063.mp3" length="18390948" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;El podcast explora si la programación en parejas es perjudicial para el equipo. Se discuten las ventajas de trabajar en equipo y la importancia de la comunicación efectiva. También se consideran los desafíos, como la desigualdad de habilidades y la dificultad para mantener la motivación. En última instancia, se concluye que la programación en parejas puede ser beneficiosa si se abordan adecuadamente los desafíos.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:24:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Qué es un equipo de producto?]]></title>
 			<description><![CDATA[<p>Mauro y David hablan sobre su semana y comentan que están grabando juntos en la misma mesa con micrófonos de verdad. Después de una pequeña conversación, David plantea la pregunta del episodio, ¿Qué es para ti, Mauro, un equipo de producto? Mauro comienza a responder y define un equipo de producto como aquel que cuenta con todas las herramientas necesarias para poner una idea en producción y transformarla en valor para la empresa y el producto. También reflexionan sobre el input que se le da al equipo de producto para lograr sus objetivos. Mauro menciona ejemplos como un OKR o la necesidad de integrar inteligencia artificial en el producto.</p>
