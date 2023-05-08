@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 30 Apr 2023 21:10:26 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 May 2023 14:43:20 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Programación funcional u orientación a objetos?]]></title>
+			<description><![CDATA[<p>Este podcast explora las diferencias entre la programación funcional y la orientación a objetos. Se discuten las ventajas y desventajas de cada enfoque, incluyendo la legibilidad del código y la facilidad de mantenimiento. También se consideran las características y usos adecuados de cada paradigma. En última instancia, se concluye que ambas metodologías son útiles y deben ser utilizadas según las necesidades específicas del proyecto.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Programacin-funcional-u-orientacin-a-objetos-e23ml0v</link>
+			<guid isPermaLink="false">43da6907-76de-450d-9beb-ff0f6b7365fe</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Mon, 08 May 2023 14:39:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/69997023/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-8%2Ff9a2619a-1014-ab18-b14f-0ea637bbfcfb.mp3" length="15312415" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Este podcast explora las diferencias entre la programación funcional y la orientación a objetos. Se discuten las ventajas y desventajas de cada enfoque, incluyendo la legibilidad del código y la facilidad de mantenimiento. También se consideran las características y usos adecuados de cada paradigma. En última instancia, se concluye que ambas metodologías son útiles y deben ser utilizadas según las necesidades específicas del proyecto.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:20:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Está mal considerado cambiar de trabajo frecuentemente?]]></title>
 			<description><![CDATA[<p>En este capítulo se aborda el tema de cambiar de trabajo frecuentemente y si esto es algo positivo o negativo en la vida profesional de una persona. A lo largo de la discusión, se presentan diferentes perspectivas y experiencias de los invitados.</p>
