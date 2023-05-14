@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 08 May 2023 14:43:20 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 14 May 2023 18:47:46 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Como aprender un nuevo lenguaje de programación?]]></title>
+			<description><![CDATA[<p>El episodio trata sobre consejos y estrategias para aprender un nuevo lenguaje de programación. Se recomienda comenzar por los fundamentos, practicar a través de proyectos y usar recursos como tutoriales en línea y comunidades de programadores. La perseverancia y la paciencia son claves para dominar un nuevo lenguaje de programación.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Como-aprender-un-nuevo-lenguaje-de-programacin-e24201n</link>
+			<guid isPermaLink="false">558db63a-0b52-4f22-933b-88e3a44e1905</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 14 May 2023 18:44:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/70368759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-14%2F3cafe2cf-8c53-4795-9f31-f8767c8e87a1.mp3" length="19736555" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;El episodio trata sobre consejos y estrategias para aprender un nuevo lenguaje de programación. Se recomienda comenzar por los fundamentos, practicar a través de proyectos y usar recursos como tutoriales en línea y comunidades de programadores. La perseverancia y la paciencia son claves para dominar un nuevo lenguaje de programación.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:25:45</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Programación funcional u orientación a objetos?]]></title>
 			<description><![CDATA[<p>Este podcast explora las diferencias entre la programación funcional y la orientación a objetos. Se discuten las ventajas y desventajas de cada enfoque, incluyendo la legibilidad del código y la facilidad de mantenimiento. También se consideran las características y usos adecuados de cada paradigma. En última instancia, se concluye que ambas metodologías son útiles y deben ser utilizadas según las necesidades específicas del proyecto.</p>
