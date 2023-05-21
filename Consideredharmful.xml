@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 14 May 2023 18:47:46 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 May 2023 23:20:53 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Son los cambios de contexto perjudiciales?]]></title>
+			<description><![CDATA[<p>¿Los cambios de contexto perjudican? Examinamos detenidamente cómo los cambios de contexto pueden afectar negativamente. Analizamos sus implicaciones en la productividad, la concentración y la calidad del trabajo.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Son-los-cambios-de-contexto-perjudiciales-e24f8r2</link>
+			<guid isPermaLink="false">ef2f8143-c89b-44c9-abeb-3c403a57803a</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 21 May 2023 23:19:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/70803746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-21%2F3d7bf176-1820-477d-201d-1251e67cc35b.mp3" length="24925984" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;¿Los cambios de contexto perjudican? Examinamos detenidamente cómo los cambios de contexto pueden afectar negativamente. Analizamos sus implicaciones en la productividad, la concentración y la calidad del trabajo.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:31:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Como aprender un nuevo lenguaje de programación?]]></title>
 			<description><![CDATA[<p>El episodio trata sobre consejos y estrategias para aprender un nuevo lenguaje de programación. Se recomienda comenzar por los fundamentos, practicar a través de proyectos y usar recursos como tutoriales en línea y comunidades de programadores. La perseverancia y la paciencia son claves para dominar un nuevo lenguaje de programación.</p>
