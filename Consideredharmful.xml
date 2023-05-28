@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 21 May 2023 23:20:53 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 28 May 2023 20:41:32 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Cuándo fué la última vez que usaste un debugger?]]></title>
+			<description><![CDATA[<p>Compartimos nuestras experiencias personales, son útiles o un mal reemplazo a una buena base de tests.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Cundo-fu-la-ltima-vez-que-usaste-un-debugger-e24qi6b</link>
+			<guid isPermaLink="false">5ffc70f3-fa6f-488a-9109-6f6b920b4fe5</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 28 May 2023 20:38:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/71173771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-28%2Fdfe6c4f6-5a71-27dd-c55e-714dd69b1acf.mp3" length="16674511" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Compartimos nuestras experiencias personales, son útiles o un mal reemplazo a una buena base de tests.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:20:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Son los cambios de contexto perjudiciales?]]></title>
 			<description><![CDATA[<p>¿Los cambios de contexto perjudican? Examinamos detenidamente cómo los cambios de contexto pueden afectar negativamente. Analizamos sus implicaciones en la productividad, la concentración y la calidad del trabajo.</p>
