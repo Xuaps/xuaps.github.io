@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 28 May 2023 20:41:32 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 11 Jun 2023 09:33:30 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Cómo hacer crecer a tu equipo?]]></title>
+			<description><![CDATA[<p>Volvemos con un capítulo clásico en el que divagamos e invertimos más de 10 minutos en entender de qué queremos hablar :). Para variar, hablamos de equipos, de convencer, motivar y empoderar. De malas prácticas y de motivaciones. Todo esto y mucho más en el último episodio de la temporada. Nos vemos en septiembre o en nuestra comunidad en telegram.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Cmo-hacer-crecer-a-tu-equipo-e25ii6t</link>
+			<guid isPermaLink="false">ba84e6fb-150d-47c3-bb04-80d885e5c0b0</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 11 Jun 2023 09:33:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/71960221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-11%2Fb008d1db-0d91-5eeb-2c92-7de17c99c841.mp3" length="37999293" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Volvemos con un capítulo clásico en el que divagamos e invertimos más de 10 minutos en entender de qué queremos hablar :). Para variar, hablamos de equipos, de convencer, motivar y empoderar. De malas prácticas y de motivaciones. Todo esto y mucho más en el último episodio de la temporada. Nos vemos en septiembre o en nuestra comunidad en telegram.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:46:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Cuándo fué la última vez que usaste un debugger?]]></title>
 			<description><![CDATA[<p>Compartimos nuestras experiencias personales, son útiles o un mal reemplazo a una buena base de tests.</p>
