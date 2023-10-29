@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 22 Oct 2023 10:16:38 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 29 Oct 2023 09:55:37 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Vale la pena diseñar?]]></title>
+			<description><![CDATA[<p>¿Qué es el diseño de software? ¿Es útil o es parte del dogma? Realmente nos ayuda a la mantenibilidad de nuestro producto? Eso es de lo que nos hubiera gustado hablar, y esto es lo que nos salió en esta conversación improvisada entre Mauro y un servidor. Esperamos tu comentarios en nuestra comunidad <a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a></p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Vale-la-pena-disear-e2b6rpl</link>
+			<guid isPermaLink="false">63d420f0-df71-4c36-9e8b-e5eb2beef3b9</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 29 Oct 2023 09:50:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/77868277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-29%2F7ce7a1e8-70a3-2d5e-f2f5-d11c7906b611.mp3" length="27218032" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;¿Qué es el diseño de software? ¿Es útil o es parte del dogma? Realmente nos ayuda a la mantenibilidad de nuestro producto? Eso es de lo que nos hubiera gustado hablar, y esto es lo que nos salió en esta conversación improvisada entre Mauro y un servidor. Esperamos tu comentarios en nuestra comunidad &lt;a href=&quot;https://t.me/consideredharmful&quot;&gt;https://t.me/consideredharmful&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:34:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Sabemos desconectar?]]></title>
 			<description><![CDATA[<p><br>Volvemos con una nueva temporada de Considered Harmful, la número 6. En este primer capítulo Mauro nos cuenta su experiencia este verano tomándose un descanso. Además comentamos por dónde va a discurrir esta temporada y os contamos algunas novedades.</p>
