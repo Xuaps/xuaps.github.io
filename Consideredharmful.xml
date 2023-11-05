@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 29 Oct 2023 09:55:37 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 05 Nov 2023 12:28:44 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Es timar estimar?]]></title>
+			<description><![CDATA[<p>¿Para qué hacemos estimaciones?, ¿tienen algún sentido?, ¿cómo nos ayudan? y lo más importante hay alternativas?. Acompañanos en esta discusión sobre este más que manido tema y diviértete. Esperamos tu comentarios en nuestra comunidad <a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a></p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Es-timar-estimar-e2bgntg</link>
+			<guid isPermaLink="false">bb1699bc-6813-4edc-8270-23abd2078733</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Sun, 05 Nov 2023 12:23:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/78191984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-5%2Fcef76b94-b89a-9af7-814c-679d1c30b296.mp3" length="25250473" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;¿Para qué hacemos estimaciones?, ¿tienen algún sentido?, ¿cómo nos ayudan? y lo más importante hay alternativas?. Acompañanos en esta discusión sobre este más que manido tema y diviértete. Esperamos tu comentarios en nuestra comunidad &lt;a href=&quot;https://t.me/consideredharmful&quot;&gt;https://t.me/consideredharmful&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:39:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Vale la pena diseñar?]]></title>
 			<description><![CDATA[<p>¿Qué es el diseño de software? ¿Es útil o es parte del dogma? Realmente nos ayuda a la mantenibilidad de nuestro producto? Eso es de lo que nos hubiera gustado hablar, y esto es lo que nos salió en esta conversación improvisada entre Mauro y un servidor. Esperamos tu comentarios en nuestra comunidad <a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a></p>
