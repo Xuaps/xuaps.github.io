@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 11 Dec 2023 15:08:43 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 16:35:01 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Qué te preocupa?]]></title>
+			<description><![CDATA[<p>¿En qué te sueles enfocar dentro del equipo? ¿Qué cosas son las que te preocupan y ocupan? ¿Cuáles son tus dolores comunes y qué sueles hacer para remediarlos? Esperamos tus comentarios en nuestra comunidad <a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Qu-te-preocupa-e2eaigj</link>
+			<guid isPermaLink="false">ecca64ad-3ca3-4ce9-a19a-8754c9825329</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 11 Jan 2024 16:34:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/81135571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fcd5112ca-34cc-11e9-1b41-a5db88e712a0.mp3" length="18916722" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;¿En qué te sueles enfocar dentro del equipo? ¿Qué cosas son las que te preocupan y ocupan? ¿Cuáles son tus dolores comunes y qué sueles hacer para remediarlos? Esperamos tus comentarios en nuestra comunidad &lt;a href=&quot;https://t.me/consideredharmful&quot;&gt;https://t.me/consideredharmful&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:24:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Desplegar un viernes considered harmful?]]></title>
 			<description><![CDATA[<p><strong>¿Despliegas los viernes? ¿Lo harías si tuvieras un gran número de usuarios? ¿Es diferente? ¿Por qué? Esperamos tus comentarios en nuestra comunidad </strong><a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a></p>
