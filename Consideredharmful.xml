@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 18 Jan 2024 18:59:48 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 16:33:03 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,24 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Fosdem considered harmful?]]></title>
+			<description><![CDATA[<p>Hacemos un resumen de nuestro paso por el fosdem. No te pierdas los ácidos comentarios de Mauro. Esperamos tus comentarios en nuestra comunidad <a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Fosdem-considered-harmful-e2fqqh5</link>
+			<guid isPermaLink="false">0d07845a-4237-47f1-972a-55a1ec433b2a</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 15 Feb 2024 16:32:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/82716645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F5901f587-4275-8c0c-05c7-700a0cf25ea8.mp3" length="26276552" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Hacemos un resumen de nuestro paso por el fosdem. No te pierdas los ácidos comentarios de Mauro. Esperamos tus comentarios en nuestra comunidad &lt;a href=&quot;https://t.me/consideredharmful&quot;&gt;https://t.me/consideredharmful&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:32:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Performance reviews considered harmful?]]></title>
 			<description><![CDATA[<p><strong>¿Se puede medir el crecimiento de un miembro del equipo? ¿Es algo objetivo? ¿Qué incentivos crea? ¿Cuál debería ser el feedback que recibimos? Esperamos tus comentarios en nuestra comunidad </strong><a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a></p>
