@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/consideredharmful</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 15 Feb 2024 16:33:03 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Mar 2024 17:48:15 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/55f69654/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Xuaps]]></author>
 		<copyright><![CDATA[Xuaps]]></copyright>
@@ -25,6 +25,26 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+		<item>
+			<title><![CDATA[¿Bugs considered harmful?]]></title>
+			<description><![CDATA[<p>Nos reunimos de nuevo después de un merecido descanso para hablar de cómo nos enfrentamos a los defectos y bugs en nuestro código. Que cosas solemos hacer, consejos y polémica. <a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a></p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/consideredharmful/episodes/Bugs-considered-harmful-e2hmihe</link>
+			<guid isPermaLink="false">03e3fc22-dd93-4da6-8866-dfbd2707df73</guid>
+			<dc:creator><![CDATA[Xuaps]]></dc:creator>
+			<pubDate>Thu, 28 Mar 2024 17:46:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/55f69654/podcast/play/84674542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-28%2F58842ba2-e559-90d9-7033-89a1e9aae196.mp3" length="30267180" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Nos reunimos de nuevo después de un merecido descanso para hablar de cómo nos enfrentamos a los defectos y bugs en nuestro código. Que cosas solemos hacer, consejos y polémica. &lt;a href=&quot;https://t.me/consideredharmful&quot;&gt;https://t.me/consideredharmful&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:38:29</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/14322237/26a888cc9e539261.jpeg"/>
+			<itunes:season>6</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[¿Fosdem considered harmful?]]></title>
 			<description><![CDATA[<p>Hacemos un resumen de nuestro paso por el fosdem. No te pierdas los ácidos comentarios de Mauro. Esperamos tus comentarios en nuestra comunidad <a href="https://t.me/consideredharmful">https://t.me/consideredharmful</a><br></p>
